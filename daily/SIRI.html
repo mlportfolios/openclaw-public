@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SIRI · daily · OpenClaw</title>
+<style>
+:root { color-scheme: light dark; }
+* { box-sizing: border-box; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    max-width: 760px; margin: 2rem auto; padding: 0 1rem; line-height: 1.55;
+    color: #1a1a1a; background: #fafafa;
+}
+@media (prefers-color-scheme: dark) {
+    body { color: #e8e8e8; background: #161616; }
+    a { color: #6cb4ff; }
+    .card, .placeholder { background: #1f1f1f; border-color: #333; }
+    .meta, .footer, .lag { color: #888; }
+    .signal-buy  { background: #0d3d22; color: #7fdca0; }
+    .signal-sell { background: #4a1414; color: #ff9b9b; }
+    .signal-hold { background: #2a2a2a; color: #bbb; }
+}
+h1 { font-size: 1.6rem; margin-bottom: 0.3rem; }
+h2 { font-size: 1.2rem; margin-top: 2rem; }
+h3 { font-size: 1rem; margin-top: 1.4rem; margin-bottom: 0.4rem; color: #555;
+     text-transform: uppercase; letter-spacing: 0.04em; font-weight: 600; }
+@media (prefers-color-scheme: dark) { h3 { color: #999; } }
+.meta { color: #666; font-size: 0.85rem; margin-top: -0.1rem; }
+.lag  { color: #888; font-size: 0.75rem; font-style: italic; }
+.footer { color: #888; font-size: 0.8rem; margin-top: 3rem; padding-top: 1rem;
+          border-top: 1px solid #ddd; }
+@media (prefers-color-scheme: dark) { .footer { border-color: #333; } }
+.card, .placeholder {
+    background: #fff; border: 1px solid #e2e2e2; border-radius: 10px;
+    padding: 1.2rem 1.4rem; margin: 1rem 0;
+}
+.placeholder { text-align: center; color: #888; }
+.signal {
+    display: inline-block; padding: 2px 10px; border-radius: 4px;
+    font-size: 0.85rem; font-weight: 600; letter-spacing: 0.02em;
+}
+.signal-buy  { background: #e3fae8; color: #1e7e34; }
+.signal-sell { background: #fde6e6; color: #b02020; }
+.signal-hold { background: #eee; color: #555; }
+.weight { color: #666; font-size: 0.9rem; margin-left: 0.6rem; }
+ul.tickers { list-style: none; padding: 0; }
+ul.tickers li { padding: 0.4rem 0; border-bottom: 1px solid #eee; }
+@media (prefers-color-scheme: dark) { ul.tickers li { border-color: #2a2a2a; } }
+ul.tickers a { text-decoration: none; font-weight: 500; }
+.flags { font-size: 0.75rem; color: #999; margin-top: 0.4rem; }
+</style>
+</head>
+<body>
+<p><a href="../index.html">← all horizons</a> · <a href="../daily/index.html">daily</a></p>
+<h1>SIRI <span class="signal signal-buy">Buy</span><span class="weight">8.61%</span></h1>
+<div class="meta">daily horizon · Positioned for the next daily horizon</div>
+<div class="lag">As of 2026-04-24 · lagged 1d behind live</div>
+<div class="card">
+<h3>Why</h3><p>SIRI received a buy signal based on a short-horizon cross-sectional momentum strategy, positioned for daily returns. The trade leverages recent outperformance against the sector ETF (XLC) and strong trend-persistence metrics (51.36), despite a volatile market regime. Momentum appears supported by composite signal strength (0.71) and filter unanimity (1.00), though the stock remains in the upper third of its 52-week range.
+
+The position reflects a top-quartile portfolio allocation (#7 of 29) with a 7.30pp weight increase from prior runs. While the signal aligns with daily momentum, the upside/downside uncertainty ratio (0.59) suggests caution, and the imminent earnings report (Apr 30) could amplify volatility.</p>
+<h3>Risk</h3><p>Downside uncertainty exceeds upside (ratio 0.59), amplified by a high short interest (15.4% of float) and bear-volatile market regime.</p>
+<h3>Invalidation</h3><p>Break below recent support or momentum reversal confirmed by a close below the 5-day moving average.</p>
+<h3>Regime note</h3><p>Bear-volatile regime (63% confidence) applies, reducing position sizing by ×0.65 to mitigate downside risk.</p>
+</div>
+<div class="footer">
+  Generated 2026-04-25 21:19 UTC · MLPortfolios OpenClaw ·
+  <a href="../index.html">home</a> ·
+  Public cards lag the live product (daily 1d, weekly 7d, monthly 30d).
+  Live signals available at <a href="https://whop.com/mlportfolios">MLPortfolios on Whop</a>.
+</div>
+</body>
+</html>
