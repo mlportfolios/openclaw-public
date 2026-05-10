@@ -2,6 +2,7 @@ https://mlportfolios.github.io/openclaw-public/index.html
 https://mlportfolios.github.io/openclaw-public/stats.html
 https://mlportfolios.github.io/openclaw-public/archive/index.html
 https://mlportfolios.github.io/openclaw-public/daily/index.html
+https://mlportfolios.github.io/openclaw-public/daily/BW.html
 https://mlportfolios.github.io/openclaw-public/daily/CGON.html
 https://mlportfolios.github.io/openclaw-public/daily/CRGY.html
 https://mlportfolios.github.io/openclaw-public/daily/DAR.html
@@ -14,9 +15,11 @@ https://mlportfolios.github.io/openclaw-public/daily/FTI.html
 https://mlportfolios.github.io/openclaw-public/daily/GPRE.html
 https://mlportfolios.github.io/openclaw-public/daily/HP.html
 https://mlportfolios.github.io/openclaw-public/daily/ICHR.html
+https://mlportfolios.github.io/openclaw-public/daily/IRDM.html
 https://mlportfolios.github.io/openclaw-public/daily/KOS.html
 https://mlportfolios.github.io/openclaw-public/daily/LITE.html
 https://mlportfolios.github.io/openclaw-public/daily/NAT.html
+https://mlportfolios.github.io/openclaw-public/daily/NE.html
 https://mlportfolios.github.io/openclaw-public/daily/NOK.html
 https://mlportfolios.github.io/openclaw-public/daily/PAHC.html
 https://mlportfolios.github.io/openclaw-public/daily/RLMD.html
