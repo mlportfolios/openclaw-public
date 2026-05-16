@@ -3,6 +3,7 @@ https://mlportfolios.github.io/openclaw-public/stats.html
 https://mlportfolios.github.io/openclaw-public/archive/index.html
 https://mlportfolios.github.io/openclaw-public/daily/index.html
 https://mlportfolios.github.io/openclaw-public/daily/BW.html
+https://mlportfolios.github.io/openclaw-public/daily/CGON.html
 https://mlportfolios.github.io/openclaw-public/daily/DNTH.html
 https://mlportfolios.github.io/openclaw-public/daily/ERAS.html
 https://mlportfolios.github.io/openclaw-public/daily/FOSL.html
@@ -18,6 +19,7 @@ https://mlportfolios.github.io/openclaw-public/daily/NOK.html
 https://mlportfolios.github.io/openclaw-public/daily/PAHC.html
 https://mlportfolios.github.io/openclaw-public/daily/RLMD.html
 https://mlportfolios.github.io/openclaw-public/daily/SKYT.html
+https://mlportfolios.github.io/openclaw-public/daily/SLAB.html
 https://mlportfolios.github.io/openclaw-public/daily/TIGO.html
 https://mlportfolios.github.io/openclaw-public/daily/TNGX.html
 https://mlportfolios.github.io/openclaw-public/daily/VIAV.html
