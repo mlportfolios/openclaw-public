@@ -4,6 +4,7 @@ https://mlportfolios.github.io/openclaw-public/archive/index.html
 https://mlportfolios.github.io/openclaw-public/daily/index.html
 https://mlportfolios.github.io/openclaw-public/daily/BW.html
 https://mlportfolios.github.io/openclaw-public/daily/CGON.html
+https://mlportfolios.github.io/openclaw-public/daily/CRGY.html
 https://mlportfolios.github.io/openclaw-public/daily/DAR.html
 https://mlportfolios.github.io/openclaw-public/daily/DNTH.html
 https://mlportfolios.github.io/openclaw-public/daily/EC.html
@@ -21,6 +22,7 @@ https://mlportfolios.github.io/openclaw-public/daily/NOK.html
 https://mlportfolios.github.io/openclaw-public/daily/PAHC.html
 https://mlportfolios.github.io/openclaw-public/daily/RLMD.html
 https://mlportfolios.github.io/openclaw-public/daily/SFL.html
+https://mlportfolios.github.io/openclaw-public/daily/SIRI.html
 https://mlportfolios.github.io/openclaw-public/daily/SLAB.html
 https://mlportfolios.github.io/openclaw-public/daily/TIGO.html
 https://mlportfolios.github.io/openclaw-public/daily/TNGX.html
