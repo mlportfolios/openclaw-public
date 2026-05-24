@@ -4,16 +4,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>TPH · daily · OpenClaw</title>
-<meta name="description" content="TPH daily signal: Hold (100.00%). TPH holds a 100% portfolio weight driven by a persistent short-horizon cross-sectional momentum signal, currently ranking #1 among 29 positions. The model identifies strong trend persistence (450.24)… As of 2026-05-21, lagged 1d.">
+<meta name="description" content="TPH daily signal: Hold (100.00%). TPH holds a 100% portfolio weight driven by a short-horizon cross-sectional momentum signal, ranking #1 among 29 holdings. The stock is positioned near its 52-week high with strong trend persistence… As of 2026-05-23, lagged 1d.">
 <link rel="canonical" href="https://mlportfolios.github.io/openclaw-public/daily/TPH.html">
 <meta property="og:title" content="TPH Daily: Hold">
-<meta property="og:description" content="TPH daily signal: Hold (100.00%). TPH holds a 100% portfolio weight driven by a persistent short-horizon cross-sectional momentum signal, currently ranking #1 among 29 positions. The model identifies strong trend persistence (450.24)… As of 2026-05-21, lagged 1d.">
+<meta property="og:description" content="TPH daily signal: Hold (100.00%). TPH holds a 100% portfolio weight driven by a short-horizon cross-sectional momentum signal, ranking #1 among 29 holdings. The stock is positioned near its 52-week high with strong trend persistence… As of 2026-05-23, lagged 1d.">
 <meta property="og:url" content="https://mlportfolios.github.io/openclaw-public/daily/TPH.html">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MLPortfolios OpenClaw">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="TPH Daily: Hold">
-<meta name="twitter:description" content="TPH daily signal: Hold (100.00%). TPH holds a 100% portfolio weight driven by a persistent short-horizon cross-sectional momentum signal, currently ranking #1 among 29 positions. The model identifies strong trend persistence (450.24)… As of 2026-05-21, lagged 1d.">
+<meta name="twitter:description" content="TPH daily signal: Hold (100.00%). TPH holds a 100% portfolio weight driven by a short-horizon cross-sectional momentum signal, ranking #1 among 29 holdings. The stock is positioned near its 52-week high with strong trend persistence… As of 2026-05-23, lagged 1d.">
 <style>
 :root { color-scheme: light dark; }
 * { box-sizing: border-box; }
@@ -59,6 +59,11 @@ ul.tickers li { padding: 0.4rem 0; border-bottom: 1px solid #eee; }
 @media (prefers-color-scheme: dark) { ul.tickers li { border-color: #2a2a2a; } }
 ul.tickers a { text-decoration: none; font-weight: 500; }
 .flags { font-size: 0.75rem; color: #999; margin-top: 0.4rem; }
+.sparkline-wrap { display: flex; align-items: center; gap: 0.6rem;
+                  margin: 0.4rem 0 0.8rem 0; }
+.sparkline { display: block; }
+.sparkline-legend { font-size: 0.78rem; color: #666; }
+@media (prefers-color-scheme: dark) { .sparkline-legend { color: #aaa; } }
 </style>
 
 </head>
@@ -66,19 +71,20 @@ ul.tickers a { text-decoration: none; font-weight: 500; }
 <p><a href="../index.html">← all horizons</a> · <a href="../daily/index.html">daily</a></p>
 <h1>TPH <span class="signal signal-hold">Hold</span><span class="weight">100.00%</span></h1>
 <div class="meta">daily horizon · Positioned for the next daily horizon</div>
-<div class="lag">As of 2026-05-21 · lagged 1d behind live</div>
+<div class="lag">As of 2026-05-23 · lagged 1d behind live</div>
 <div class="card">
-<h3>Why</h3><p>TPH holds a 100% portfolio weight driven by a persistent short-horizon cross-sectional momentum signal, currently ranking #1 among 29 positions. The model identifies strong trend persistence (450.24) and breakout probability (0.87), with the stock trading near its 52-week high and outperforming the sector ETF by 3.1 percentage points over five days. This consistency is reinforced by the signal appearing in 7 of the last 8 daily runs, indicating robust upward price action despite moderate uncertainty.
+<div class="sparkline-wrap"><svg viewBox="0 0 140 28" width="140" height="28" class="sparkline" role="img" aria-label="Last 10 daily outcomes for TPH (green=hit, red=miss; height=percentile rank)"><title>Last 10 daily outcomes for TPH (green=hit, red=miss; height=percentile rank)</title><rect x="2" y="14" width="12" height="12" fill="#a02828" opacity="0.85"/><rect x="15" y="11" width="12" height="15" fill="#2c7a3b" opacity="0.85"/><rect x="28" y="22" width="12" height="4" fill="#2c7a3b" opacity="0.85"/><rect x="41" y="14" width="12" height="12" fill="#a02828" opacity="0.85"/><rect x="54" y="18" width="12" height="8" fill="#a02828" opacity="0.85"/><rect x="67" y="11" width="12" height="15" fill="#2c7a3b" opacity="0.85"/><rect x="80" y="7" width="12" height="19" fill="#a02828" opacity="0.85"/><rect x="93" y="15" width="12" height="11" fill="#a02828" opacity="0.85"/><rect x="106" y="19" width="12" height="7" fill="#a02828" opacity="0.85"/><rect x="119" y="14" width="12" height="12" fill="#a02828" opacity="0.85"/></svg> <span class="sparkline-legend">3/10 hit last 10 daily outcomes</span></div>
+<h3>Why</h3><p>TPH holds a 100% portfolio weight driven by a short-horizon cross-sectional momentum signal, ranking #1 among 29 holdings. The stock is positioned near its 52-week high with strong trend persistence (450.24) and breakout probability (0.87), indicating robust upward price action despite moderate sector-relative underperformance.
 
-The trade remains stable with no position change from the prior run, supported by a composite screener score of 0.74 and unanimous filter agreement. While analyst consensus is neutral with a target aligned to current prices, the momentum factor dominates the decision logic. The position is sized at 0.93x due to the current BULL_QUIET regime, balancing the strong technical setup against the downside uncertainty ratio of 0.72.</p>
-<h3>Risk</h3><p>Downside uncertainty exceeds upside (ratio 0.72), compounded by net insider selling and moderate short interest (8.3% of float) which could amplify volatility if momentum stalls.</p>
+The model maintains a stable position size, though the signal has been intermittent, appearing in only half of the last eight daily runs. With analyst consensus at a hold and fair value aligned with current prices, the trade relies on continued momentum rather than fundamental re-rating, requiring strict adherence to the daily horizon to manage the moderate uncertainty profile.</p>
+<h3>Risk</h3><p>The primary risk is the asymmetric uncertainty profile where downside uncertainty exceeds upside (ratio 0.72), compounded by moderate short interest (8.3%) that could trigger volatility if momentum stalls.</p>
 <h3>Invalidation</h3><p>The setup is invalidated if TPH breaks below recent support levels or exhibits a confirmed momentum reversal signal.</p>
-<h3>Regime note</h3><p>The BULL_QUIET regime (57% confidence) supports the position but applies a 0.93x sizing multiplier to account for potential regime transition risk.</p>
-<h3>Cross-horizon</h3><p>This is a single-timeframe signal held only in the daily portfolio, with no cross-horizon alignment from weekly or monthly models.</p>
+<h3>Regime note</h3><p>Current BULL_QUIET regime confidence is low at 49%, introducing a 16% probability of a regime flip to bear that warrants cautious position sizing.</p>
+<h3>Cross-horizon</h3><p>This is a single-timeframe signal isolated to the daily horizon, with no alignment or divergence from weekly or monthly models.</p>
 <h3>Track record</h3><p>{&#x27;hit_rate_label&#x27;: &#x27;3 of last 6 daily signals correct (50%)&#x27;, &#x27;confidence_label&#x27;: &#x27;Realized performance 50/100 vs universe (neutral)&#x27;, &#x27;hit_rate&#x27;: 0.5, &#x27;n_directional&#x27;: 6, &#x27;n_correct&#x27;: 3, &#x27;graded_mean_percentile&#x27;: 49.5, &#x27;current_streak&#x27;: 1, &#x27;window&#x27;: 30, &#x27;last_resolved&#x27;: &#x27;2026-05-12&#x27;}</p>
 </div>
 <div class="footer">
-  Generated 2026-05-23 02:29 UTC · MLPortfolios OpenClaw ·
+  Generated 2026-05-24 13:45 UTC · MLPortfolios OpenClaw ·
   <a href="../index.html">home</a> ·
   <a href="../stats.html">stats</a> ·
   Public cards lag the live product (daily 1d, weekly 7d, monthly 30d).
