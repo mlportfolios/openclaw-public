@@ -78,6 +78,7 @@ https://mlportfolios.github.io/openclaw-public/monthly/SYRE.html
 https://mlportfolios.github.io/openclaw-public/monthly/TNGX.html
 https://mlportfolios.github.io/openclaw-public/monthly/TSEM.html
 https://mlportfolios.github.io/openclaw-public/monthly/USAS.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-05-01.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-04-30.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-04-29.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-04-27.html
