@@ -4,6 +4,7 @@ https://mlportfolios.github.io/openclaw-public/archive/index.html
 https://mlportfolios.github.io/openclaw-public/daily/index.html
 https://mlportfolios.github.io/openclaw-public/daily/AGL.html
 https://mlportfolios.github.io/openclaw-public/daily/AMD.html
+https://mlportfolios.github.io/openclaw-public/daily/APLD.html
 https://mlportfolios.github.io/openclaw-public/daily/ARCB.html
 https://mlportfolios.github.io/openclaw-public/daily/BB.html
 https://mlportfolios.github.io/openclaw-public/daily/BTDR.html
@@ -79,6 +80,7 @@ https://mlportfolios.github.io/openclaw-public/monthly/RLAY.html
 https://mlportfolios.github.io/openclaw-public/monthly/RLMD.html
 https://mlportfolios.github.io/openclaw-public/monthly/SSRM.html
 https://mlportfolios.github.io/openclaw-public/monthly/TIGO.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-05-12.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-11.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-10.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-09.html
