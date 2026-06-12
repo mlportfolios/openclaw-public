@@ -29,6 +29,7 @@ https://mlportfolios.github.io/openclaw-public/daily/TKR.html
 https://mlportfolios.github.io/openclaw-public/daily/TVTX.html
 https://mlportfolios.github.io/openclaw-public/daily/TXN.html
 https://mlportfolios.github.io/openclaw-public/daily/UMC.html
+https://mlportfolios.github.io/openclaw-public/daily/VSAT.html
 https://mlportfolios.github.io/openclaw-public/daily/WDC.html
 https://mlportfolios.github.io/openclaw-public/weekly/index.html
 https://mlportfolios.github.io/openclaw-public/weekly/AAOI.html
@@ -80,6 +81,7 @@ https://mlportfolios.github.io/openclaw-public/monthly/RLAY.html
 https://mlportfolios.github.io/openclaw-public/monthly/RLMD.html
 https://mlportfolios.github.io/openclaw-public/monthly/SSRM.html
 https://mlportfolios.github.io/openclaw-public/monthly/TIGO.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-05-13.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-12.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-11.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-10.html
