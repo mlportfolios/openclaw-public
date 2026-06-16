@@ -7,11 +7,13 @@ https://mlportfolios.github.io/openclaw-public/daily/AMD.html
 https://mlportfolios.github.io/openclaw-public/daily/APLD.html
 https://mlportfolios.github.io/openclaw-public/daily/ARCB.html
 https://mlportfolios.github.io/openclaw-public/daily/ASTH.html
+https://mlportfolios.github.io/openclaw-public/daily/ASX.html
 https://mlportfolios.github.io/openclaw-public/daily/BB.html
 https://mlportfolios.github.io/openclaw-public/daily/BTDR.html
 https://mlportfolios.github.io/openclaw-public/daily/CLDT.html
 https://mlportfolios.github.io/openclaw-public/daily/CORT.html
 https://mlportfolios.github.io/openclaw-public/daily/CRS.html
+https://mlportfolios.github.io/openclaw-public/daily/FLEX.html
 https://mlportfolios.github.io/openclaw-public/daily/FOSL.html
 https://mlportfolios.github.io/openclaw-public/daily/HUT.html
 https://mlportfolios.github.io/openclaw-public/daily/IRDM.html
@@ -84,6 +86,7 @@ https://mlportfolios.github.io/openclaw-public/monthly/RLAY.html
 https://mlportfolios.github.io/openclaw-public/monthly/RLMD.html
 https://mlportfolios.github.io/openclaw-public/monthly/SSRM.html
 https://mlportfolios.github.io/openclaw-public/monthly/TIGO.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-05-17.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-16.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-15.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-14.html
