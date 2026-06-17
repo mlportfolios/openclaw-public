@@ -86,6 +86,7 @@ https://mlportfolios.github.io/openclaw-public/monthly/RLAY.html
 https://mlportfolios.github.io/openclaw-public/monthly/RLMD.html
 https://mlportfolios.github.io/openclaw-public/monthly/SSRM.html
 https://mlportfolios.github.io/openclaw-public/monthly/TIGO.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-05-18.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-17.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-16.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-15.html
