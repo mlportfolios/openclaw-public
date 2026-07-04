@@ -11,18 +11,18 @@ https://mlportfolios.github.io/openclaw-public/daily/BB.html
 https://mlportfolios.github.io/openclaw-public/daily/BTDR.html
 https://mlportfolios.github.io/openclaw-public/daily/CARE.html
 https://mlportfolios.github.io/openclaw-public/daily/CAT.html
+https://mlportfolios.github.io/openclaw-public/daily/CMRX.html
 https://mlportfolios.github.io/openclaw-public/daily/CORT.html
 https://mlportfolios.github.io/openclaw-public/daily/DFTX.html
 https://mlportfolios.github.io/openclaw-public/daily/EVC.html
 https://mlportfolios.github.io/openclaw-public/daily/FLEX.html
-https://mlportfolios.github.io/openclaw-public/daily/FOSL.html
 https://mlportfolios.github.io/openclaw-public/daily/HLIT.html
 https://mlportfolios.github.io/openclaw-public/daily/HP.html
 https://mlportfolios.github.io/openclaw-public/daily/HUT.html
 https://mlportfolios.github.io/openclaw-public/daily/IRDM.html
 https://mlportfolios.github.io/openclaw-public/daily/LUNR.html
-https://mlportfolios.github.io/openclaw-public/daily/MODG.html
 https://mlportfolios.github.io/openclaw-public/daily/MXL.html
+https://mlportfolios.github.io/openclaw-public/daily/NAT.html
 https://mlportfolios.github.io/openclaw-public/daily/NAVN.html
 https://mlportfolios.github.io/openclaw-public/daily/PLUG.html
 https://mlportfolios.github.io/openclaw-public/daily/PSMT.html
@@ -30,7 +30,6 @@ https://mlportfolios.github.io/openclaw-public/daily/SANM.html
 https://mlportfolios.github.io/openclaw-public/daily/SHLS.html
 https://mlportfolios.github.io/openclaw-public/daily/SNX.html
 https://mlportfolios.github.io/openclaw-public/daily/SPIR.html
-https://mlportfolios.github.io/openclaw-public/daily/TIGO.html
 https://mlportfolios.github.io/openclaw-public/daily/TNGX.html
 https://mlportfolios.github.io/openclaw-public/daily/TVTX.html
 https://mlportfolios.github.io/openclaw-public/daily/TXN.html
@@ -90,6 +89,8 @@ https://mlportfolios.github.io/openclaw-public/monthly/RLAY.html
 https://mlportfolios.github.io/openclaw-public/monthly/RLMD.html
 https://mlportfolios.github.io/openclaw-public/monthly/SSRM.html
 https://mlportfolios.github.io/openclaw-public/monthly/TIGO.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-06-04.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-06-03.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-06-02.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-06-01.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-05-31.html
