@@ -3,14 +3,17 @@ https://mlportfolios.github.io/openclaw-public/stats.html
 https://mlportfolios.github.io/openclaw-public/archive/index.html
 https://mlportfolios.github.io/openclaw-public/daily/index.html
 https://mlportfolios.github.io/openclaw-public/daily/ATEX.html
+https://mlportfolios.github.io/openclaw-public/daily/BBY.html
 https://mlportfolios.github.io/openclaw-public/daily/BLFS.html
 https://mlportfolios.github.io/openclaw-public/daily/CMRX.html
 https://mlportfolios.github.io/openclaw-public/daily/CNTA.html
 https://mlportfolios.github.io/openclaw-public/daily/DFTX.html
 https://mlportfolios.github.io/openclaw-public/daily/EHAB.html
 https://mlportfolios.github.io/openclaw-public/daily/FOLD.html
+https://mlportfolios.github.io/openclaw-public/daily/FTRE.html
 https://mlportfolios.github.io/openclaw-public/daily/GEO.html
 https://mlportfolios.github.io/openclaw-public/daily/HPE.html
+https://mlportfolios.github.io/openclaw-public/daily/HUM.html
 https://mlportfolios.github.io/openclaw-public/daily/ILMN.html
 https://mlportfolios.github.io/openclaw-public/daily/JAZZ.html
 https://mlportfolios.github.io/openclaw-public/daily/LQDA.html
@@ -67,6 +70,7 @@ https://mlportfolios.github.io/openclaw-public/monthly/NAT.html
 https://mlportfolios.github.io/openclaw-public/monthly/RLAY.html
 https://mlportfolios.github.io/openclaw-public/monthly/SSRM.html
 https://mlportfolios.github.io/openclaw-public/monthly/TIGO.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-07-03.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-02.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-01.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-06-30.html
