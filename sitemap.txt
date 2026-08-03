@@ -70,6 +70,7 @@ https://mlportfolios.github.io/openclaw-public/monthly/NAT.html
 https://mlportfolios.github.io/openclaw-public/monthly/RLAY.html
 https://mlportfolios.github.io/openclaw-public/monthly/SSRM.html
 https://mlportfolios.github.io/openclaw-public/monthly/TIGO.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-07-04.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-03.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-02.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-01.html
