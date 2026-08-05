@@ -64,6 +64,14 @@ ul.tickers a { text-decoration: none; font-weight: 500; }
 .sparkline { display: block; }
 .sparkline-legend { font-size: 0.78rem; color: #666; }
 @media (prefers-color-scheme: dark) { .sparkline-legend { color: #aaa; } }
+.override { border-left: 3px solid #b45309; background: #fdf6ec;
+            padding: 0.6rem 0.8rem; margin: 0 0 0.9rem 0;
+            font-size: 0.86rem; line-height: 1.5; border-radius: 3px; }
+.override strong { color: #7c4a08; }
+@media (prefers-color-scheme: dark) {
+  .override { background: #2a2114; border-color: #b45309; }
+  .override strong { color: #e0a758; }
+}
 </style>
 
 </head>
@@ -73,6 +81,7 @@ ul.tickers a { text-decoration: none; font-weight: 500; }
 <div class="meta">daily horizon · Positioned for the next daily horizon</div>
 <div class="lag">As of 2026-08-03 · lagged 1d behind live</div>
 <div class="card">
+<div class="override"><strong>The signal changed after this note was written.</strong> This was issued as a <strong>Hold</strong>. The energy-flow gate then overrode it to <strong>Sell</strong> because the reading fell into the stagnant band. The reasoning below is the original rationale, published unedited — see <em>Invalidation</em> for why it was overridden.</div>
 <div class="sparkline-wrap"><svg viewBox="0 0 140 28" width="140" height="28" class="sparkline" role="img" aria-label="Last 9 daily outcomes for TKR (green=hit, red=miss; height=percentile rank)"><title>Last 9 daily outcomes for TKR (green=hit, red=miss; height=percentile rank)</title><rect x="2" y="16" width="14" height="10" fill="#a02828" opacity="0.85"/><rect x="17" y="22" width="14" height="4" fill="#a02828" opacity="0.85"/><rect x="32" y="17" width="14" height="9" fill="#a02828" opacity="0.85"/><rect x="47" y="6" width="14" height="20" fill="#a02828" opacity="0.85"/><rect x="62" y="13" width="14" height="13" fill="#a02828" opacity="0.85"/><rect x="77" y="24" width="14" height="2" fill="#2c7a3b" opacity="0.85"/><rect x="92" y="16" width="14" height="10" fill="#a02828" opacity="0.85"/><rect x="107" y="4" width="14" height="22" fill="#a02828" opacity="0.85"/><rect x="122" y="6" width="14" height="20" fill="#a02828" opacity="0.85"/></svg> <span class="sparkline-legend">1/9 hit last 9 daily outcomes</span></div>
 <h3>Why</h3><p>The model has increased the weight on TKR to 2.45% based on a short‑horizon cross‑sectional momentum signal that is stronger than it was in the prior run, with upside uncertainty twice as large as downside risk (ratio 2.49). Analyst consensus values the stock at $144.91 and the next earnings report is imminent, supporting a hold stance while the price remains near the upper third of its 52‑week range.
 

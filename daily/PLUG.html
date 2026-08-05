@@ -64,6 +64,14 @@ ul.tickers a { text-decoration: none; font-weight: 500; }
 .sparkline { display: block; }
 .sparkline-legend { font-size: 0.78rem; color: #666; }
 @media (prefers-color-scheme: dark) { .sparkline-legend { color: #aaa; } }
+.override { border-left: 3px solid #b45309; background: #fdf6ec;
+            padding: 0.6rem 0.8rem; margin: 0 0 0.9rem 0;
+            font-size: 0.86rem; line-height: 1.5; border-radius: 3px; }
+.override strong { color: #7c4a08; }
+@media (prefers-color-scheme: dark) {
+  .override { background: #2a2114; border-color: #b45309; }
+  .override strong { color: #e0a758; }
+}
 </style>
 
 </head>
@@ -73,6 +81,7 @@ ul.tickers a { text-decoration: none; font-weight: 500; }
 <div class="meta">daily horizon · Positioned for the next daily horizon</div>
 <div class="lag">As of 2026-07-27 · lagged 1d behind live</div>
 <div class="card">
+<div class="override"><strong>The signal changed after this note was written.</strong> This was issued as a <strong>Hold</strong>. The energy-flow gate then overrode it to <strong>Sell</strong> because the reading fell into the stagnant band. The reasoning below is the original rationale, published unedited — see <em>Invalidation</em> for why it was overridden.</div>
 <div class="sparkline-wrap"><svg viewBox="0 0 140 28" width="140" height="28" class="sparkline" role="img" aria-label="Last 12 daily outcomes for PLUG (green=hit, red=miss; height=percentile rank)"><title>Last 12 daily outcomes for PLUG (green=hit, red=miss; height=percentile rank)</title><rect x="2" y="13" width="10" height="13" fill="#a02828" opacity="0.85"/><rect x="13" y="9" width="10" height="17" fill="#a02828" opacity="0.85"/><rect x="24" y="17" width="10" height="9" fill="#a02828" opacity="0.85"/><rect x="35" y="18" width="10" height="8" fill="#a02828" opacity="0.85"/><rect x="46" y="25" width="10" height="1" fill="#a02828" opacity="0.85"/><rect x="57" y="24" width="10" height="2" fill="#2c7a3b" opacity="0.85"/><rect x="68" y="11" width="10" height="15" fill="#2c7a3b" opacity="0.85"/><rect x="79" y="18" width="10" height="8" fill="#2c7a3b" opacity="0.85"/><rect x="90" y="10" width="10" height="16" fill="#2c7a3b" opacity="0.85"/><rect x="101" y="8" width="10" height="18" fill="#a02828" opacity="0.85"/><rect x="112" y="19" width="10" height="7" fill="#2c7a3b" opacity="0.85"/><rect x="123" y="18" width="10" height="8" fill="#2c7a3b" opacity="0.85"/></svg> <span class="sparkline-legend">6/12 hit last 12 daily outcomes</span></div>
 <h3>Why</h3><p>PLUG is currently held with a moderate‑confidence short‑horizon momentum signal that suggests a modest upside in the next trading day. The model’s composite score of 0.97, strong trend persistence (1177.93) and breakout probability (0.85) support this stance, while the 83% directional hit rate and 71% track record in the BEAR_QUIET regime reinforce its viability.
 
