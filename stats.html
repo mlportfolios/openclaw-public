@@ -73,13 +73,20 @@ ul.tickers a { text-decoration: none; font-weight: 500; }
 <div class="meta">Aggregate performance across all resolved signals. Updates nightly. Numbers shown reflect outcomes that have already closed — never live or open positions.</div>
 <h2>By horizon</h2>
 <ul class="tickers">
-<li><strong>Daily</strong> · 0 resolved signals · avg hit rate (n≥3 tickers): 57.6% (36 tickers)</li>
-<li><strong>Weekly</strong> · 0 resolved signals · avg hit rate (n≥3 tickers): 41.0% (165 tickers)</li>
-<li><strong>Monthly</strong> · 0 resolved signals · avg hit rate (n≥3 tickers): 50.0% (12 tickers)</li>
+<li><strong>Daily</strong> · 1609 resolved signals · pooled hit rate: 57.5% (115/200) · mean per-ticker hit rate (n≥3): 57.7% (36 tickers)</li>
+<li><strong>Weekly</strong> · 1659 resolved signals · pooled hit rate: 41.6% (446/1072) · mean per-ticker hit rate (n≥3): 41.0% (165 tickers)</li>
+<li><strong>Monthly</strong> · 333 resolved signals · pooled hit rate: 48.6% (34/70) · mean per-ticker hit rate (n≥3): 50.0% (12 tickers)</li>
 </ul>
-<div class="placeholder">No outcomes have resolved yet — first daily windows close ~1 day after the model's first run, weekly ~5 trading days, monthly ~21. This page will start populating as resolutions land.</div>
+<div class="placeholder"><strong>How to read this.</strong> The <em>pooled</em> rate counts every directional call equally. The <em>mean per-ticker</em> rate averages each ticker's own rate, so a ticker with three calls counts as much as one with thirty — it is the friendlier of the two and should not be read on its own. Both are computed over a rolling window, so they differ from all-time figures. Neither is a return, and neither is evidence of skill: the deflated Sharpe ratio, which adjusts for how many strategy variants were tried, does not currently clear its threshold on any horizon. Treat this page as a record of what happened, not a claim about what will.</div>
+<h2>Calibration unlock (Phase 6b)</h2>
+<div class="meta">Calibration retraining unlocks at 200 resolved signals per horizon.</div>
+<ul class="tickers">
+<li><strong>Daily</strong>: 1609/200 · unlocked</li>
+<li><strong>Weekly</strong>: 1659/200 · unlocked</li>
+<li><strong>Monthly</strong>: 333/200 · unlocked</li>
+</ul>
 <div class="footer">
-  Generated 2026-08-05 05:53 UTC · MLPortfolios OpenClaw ·
+  Generated 2026-08-05 06:14 UTC · MLPortfolios OpenClaw ·
   <a href="index.html">home</a> ·
   <a href="stats.html">stats</a> ·
   Public cards lag the live product (daily 1d, weekly 7d, monthly 30d).
