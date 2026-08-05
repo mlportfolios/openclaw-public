@@ -59,6 +59,14 @@ ul.tickers li { padding: 0.4rem 0; border-bottom: 1px solid #eee; }
 @media (prefers-color-scheme: dark) { ul.tickers li { border-color: #2a2a2a; } }
 ul.tickers a { text-decoration: none; font-weight: 500; }
 .flags { font-size: 0.75rem; color: #999; margin-top: 0.4rem; }
+.override { border-left: 3px solid #b45309; background: #fdf6ec;
+            padding: 0.6rem 0.8rem; margin: 0 0 0.9rem 0;
+            font-size: 0.86rem; line-height: 1.5; border-radius: 3px; }
+.override strong { color: #7c4a08; }
+@media (prefers-color-scheme: dark) {
+  .override { background: #2a2114; border-color: #b45309; }
+  .override strong { color: #e0a758; }
+}
 .sparkline-wrap { display: flex; align-items: center; gap: 0.6rem;
                   margin: 0.4rem 0 0.8rem 0; }
 .sparkline { display: block; }
@@ -73,6 +81,7 @@ ul.tickers a { text-decoration: none; font-weight: 500; }
 <div class="meta">monthly horizon · Positioned for the next monthly horizon</div>
 <div class="lag">As of 2026-07-05 · lagged 30d behind live</div>
 <div class="card">
+
 <div class="sparkline-wrap"><svg viewBox="0 0 140 28" width="140" height="28" class="sparkline" role="img" aria-label="Last 12 monthly outcomes for CENX (green=hit, red=miss; height=percentile rank)"><title>Last 12 monthly outcomes for CENX (green=hit, red=miss; height=percentile rank)</title><rect x="2" y="23" width="10" height="3" fill="#a02828" opacity="0.85"/><rect x="13" y="23" width="10" height="3" fill="#a02828" opacity="0.85"/><rect x="24" y="23" width="10" height="3" fill="#a02828" opacity="0.85"/><rect x="35" y="23" width="10" height="3" fill="#a02828" opacity="0.85"/><rect x="46" y="22" width="10" height="4" fill="#a02828" opacity="0.85"/><rect x="57" y="22" width="10" height="4" fill="#a02828" opacity="0.85"/><rect x="68" y="16" width="10" height="10" fill="#a02828" opacity="0.85"/><rect x="79" y="16" width="10" height="10" fill="#a02828" opacity="0.85"/><rect x="90" y="13" width="10" height="13" fill="#a02828" opacity="0.85"/><rect x="101" y="13" width="10" height="13" fill="#a02828" opacity="0.85"/><rect x="112" y="11" width="10" height="15" fill="#a02828" opacity="0.85"/><rect x="123" y="10" width="10" height="16" fill="#2c7a3b" opacity="0.85"/></svg> <span class="sparkline-legend">1/12 hit last 12 monthly outcomes</span></div>
 <h3>Why</h3><p>CENX is currently positioned for a bullish momentum trade based on our monthly factor model, which identifies strong trend persistence and breakout probability at 0.84. The signal shows moderate upside uncertainty (ratio 1.72) but the analyst consensus supports an $78.67 target, indicating that momentum aligns with broader market expectations.
 
@@ -84,7 +93,7 @@ The trade is weighted at 6.44% of the portfolio, a reduction from last run, refl
 <h3>Track record</h3><p>0 of last 6 monthly signals correct (0%). Realized performance 15/100 vs universe (below median). Rolling 6-day window; last resolved 2026-07-02.</p>
 </div>
 <div class="footer">
-  Generated 2026-08-05 05:53 UTC · MLPortfolios OpenClaw ·
+  Generated 2026-08-05 22:51 UTC · MLPortfolios OpenClaw ·
   <a href="../index.html">home</a> ·
   <a href="../stats.html">stats</a> ·
   Public cards lag the live product (daily 1d, weekly 7d, monthly 30d).

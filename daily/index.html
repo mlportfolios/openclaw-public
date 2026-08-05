@@ -4,16 +4,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>OpenClaw daily</title>
-<meta name="description" content="22 daily signals from MLPortfolios OpenClaw, as of 2026-08-03 (lagged 1d behind live).">
+<meta name="description" content="23 daily signals from MLPortfolios OpenClaw, as of 2026-08-04 (lagged 1d behind live).">
 <link rel="canonical" href="https://mlportfolios.github.io/openclaw-public/daily/index.html">
 <meta property="og:title" content="Daily signals · OpenClaw">
-<meta property="og:description" content="22 daily signals from MLPortfolios OpenClaw, as of 2026-08-03 (lagged 1d behind live).">
+<meta property="og:description" content="23 daily signals from MLPortfolios OpenClaw, as of 2026-08-04 (lagged 1d behind live).">
 <meta property="og:url" content="https://mlportfolios.github.io/openclaw-public/daily/index.html">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MLPortfolios OpenClaw">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Daily signals · OpenClaw">
-<meta name="twitter:description" content="22 daily signals from MLPortfolios OpenClaw, as of 2026-08-03 (lagged 1d behind live).">
+<meta name="twitter:description" content="23 daily signals from MLPortfolios OpenClaw, as of 2026-08-04 (lagged 1d behind live).">
 <style>
 :root { color-scheme: light dark; }
 * { box-sizing: border-box; }
@@ -59,6 +59,14 @@ ul.tickers li { padding: 0.4rem 0; border-bottom: 1px solid #eee; }
 @media (prefers-color-scheme: dark) { ul.tickers li { border-color: #2a2a2a; } }
 ul.tickers a { text-decoration: none; font-weight: 500; }
 .flags { font-size: 0.75rem; color: #999; margin-top: 0.4rem; }
+.override { border-left: 3px solid #b45309; background: #fdf6ec;
+            padding: 0.6rem 0.8rem; margin: 0 0 0.9rem 0;
+            font-size: 0.86rem; line-height: 1.5; border-radius: 3px; }
+.override strong { color: #7c4a08; }
+@media (prefers-color-scheme: dark) {
+  .override { background: #2a2114; border-color: #b45309; }
+  .override strong { color: #e0a758; }
+}
 .sparkline-wrap { display: flex; align-items: center; gap: 0.6rem;
                   margin: 0.4rem 0 0.8rem 0; }
 .sparkline { display: block; }
@@ -70,34 +78,35 @@ ul.tickers a { text-decoration: none; font-weight: 500; }
 <body>
 <p><a href="../index.html">← home</a></p>
 <h1>Daily cards</h1>
-<div class="meta">22 tickers</div>
-<div class="lag">As of 2026-08-03 · lagged 1d behind live</div>
+<div class="meta">23 tickers</div>
+<div class="lag">As of 2026-08-04 · lagged 1d behind live</div>
 <ul class="tickers">
-<li><a href="ATEX.html">ATEX</a> <span class="signal signal-hold">Hold</span><span class="weight">8.17%</span></li>
-<li><a href="BBY.html">BBY</a> <span class="signal signal-hold">Hold</span><span class="weight">1.02%</span></li>
-<li><a href="BLFS.html">BLFS</a> <span class="signal signal-hold">Hold</span><span class="weight">12.66%</span></li>
-<li><a href="CMRX.html">CMRX</a> <span class="signal signal-hold">Hold</span><span class="weight">5.18%</span></li>
-<li><a href="CNTA.html">CNTA</a> <span class="signal signal-hold">Hold</span><span class="weight">5.21%</span></li>
-<li><a href="DFTX.html">DFTX</a> <span class="signal signal-hold">Hold</span><span class="weight">2.19%</span></li>
-<li><a href="EHAB.html">EHAB</a> <span class="signal signal-hold">Hold</span><span class="weight">0.59%</span></li>
-<li><a href="FOLD.html">FOLD</a> <span class="signal signal-hold">Hold</span><span class="weight">6.87%</span></li>
-<li><a href="FTRE.html">FTRE</a> <span class="signal signal-hold">Hold</span><span class="weight">0.27%</span></li>
-<li><a href="GEO.html">GEO</a> <span class="signal signal-sell">Sell</span><span class="weight">0.07%</span></li>
-<li><a href="HPE.html">HPE</a> <span class="signal signal-hold">Hold</span><span class="weight">1.00%</span></li>
-<li><a href="HUM.html">HUM</a> <span class="signal signal-hold">Hold</span><span class="weight">2.66%</span></li>
-<li><a href="ILMN.html">ILMN</a> <span class="signal signal-sell">Sell</span><span class="weight">1.48%</span></li>
-<li><a href="JAZZ.html">JAZZ</a> <span class="signal signal-hold">Hold</span><span class="weight">2.27%</span></li>
-<li><a href="LQDA.html">LQDA</a> <span class="signal signal-hold">Hold</span><span class="weight">28.12%</span></li>
-<li><a href="MNPR.html">MNPR</a> <span class="signal signal-hold">Hold</span><span class="weight">7.06%</span></li>
-<li><a href="NAT.html">NAT</a> <span class="signal signal-hold">Hold</span><span class="weight">2.89%</span></li>
-<li><a href="RLJ.html">RLJ</a> <span class="signal signal-hold">Hold</span><span class="weight">2.32%</span></li>
-<li><a href="SYRE.html">SYRE</a> <span class="signal signal-hold">Hold</span><span class="weight">1.49%</span></li>
-<li><a href="TERN.html">TERN</a> <span class="signal signal-hold">Hold</span><span class="weight">2.14%</span></li>
-<li><a href="TKR.html">TKR</a> <span class="signal signal-sell">Sell</span><span class="weight">2.45%</span></li>
-<li><a href="TXG.html">TXG</a> <span class="signal signal-sell">Sell</span><span class="weight">3.91%</span></li>
+<li><a href="ATEX.html">ATEX</a> <span class="signal signal-hold">Hold</span><span class="weight">2.81%</span></li>
+<li><a href="BBY.html">BBY</a> <span class="signal signal-hold">Hold</span><span class="weight">6.98%</span></li>
+<li><a href="BLFS.html">BLFS</a> <span class="signal signal-hold">Hold</span><span class="weight">5.27%</span></li>
+<li><a href="BLLN.html">BLLN</a> <span class="signal signal-sell">Sell</span><span class="weight">0.09%</span></li>
+<li><a href="CENX.html">CENX</a> <span class="signal signal-hold">Hold</span><span class="weight">0.72%</span></li>
+<li><a href="FINT.html">FINT</a> <span class="signal signal-sell">Sell</span><span class="weight">0.71%</span></li>
+<li><a href="FTRE.html">FTRE</a> <span class="signal signal-hold">Hold</span><span class="weight">0.95%</span></li>
+<li><a href="GEO.html">GEO</a> <span class="signal signal-sell">Sell</span><span class="weight">5.48%</span></li>
+<li><a href="HPE.html">HPE</a> <span class="signal signal-hold">Hold</span><span class="weight">2.59%</span></li>
+<li><a href="HUM.html">HUM</a> <span class="signal signal-hold">Hold</span><span class="weight">12.51%</span></li>
+<li><a href="ILMN.html">ILMN</a> <span class="signal signal-sell">Sell</span><span class="weight">3.47%</span></li>
+<li><a href="KNSA.html">KNSA</a> <span class="signal signal-hold">Hold</span><span class="weight">1.75%</span></li>
+<li><a href="LITE.html">LITE</a> <span class="signal signal-sell">Sell</span><span class="weight">0.78%</span></li>
+<li><a href="LQDA.html">LQDA</a> <span class="signal signal-hold">Hold</span><span class="weight">26.48%</span></li>
+<li><a href="MCS.html">MCS</a> <span class="signal signal-hold">Hold</span><span class="weight">2.09%</span></li>
+<li><a href="MNPR.html">MNPR</a> <span class="signal signal-hold">Hold</span><span class="weight">4.34%</span></li>
+<li><a href="MYE.html">MYE</a> <span class="signal signal-hold">Hold</span><span class="weight">1.78%</span></li>
+<li><a href="RLJ.html">RLJ</a> <span class="signal signal-hold">Hold</span><span class="weight">10.30%</span></li>
+<li><a href="TIGO.html">TIGO</a> <span class="signal signal-hold">Hold</span><span class="weight">2.39%</span></li>
+<li><a href="TKR.html">TKR</a> <span class="signal signal-sell">Sell</span><span class="weight">0.61%</span></li>
+<li><a href="TXG.html">TXG</a> <span class="signal signal-sell">Sell</span><span class="weight">4.85%</span></li>
+<li><a href="WLY.html">WLY</a> <span class="signal signal-hold">Hold</span><span class="weight">1.61%</span></li>
+<li><a href="ZD.html">ZD</a> <span class="signal signal-hold">Hold</span><span class="weight">1.45%</span></li>
 </ul>
 <div class="footer">
-  Generated 2026-08-05 05:53 UTC · MLPortfolios OpenClaw ·
+  Generated 2026-08-05 22:51 UTC · MLPortfolios OpenClaw ·
   <a href="../index.html">home</a> ·
   <a href="../stats.html">stats</a> ·
   Public cards lag the live product (daily 1d, weekly 7d, monthly 30d).

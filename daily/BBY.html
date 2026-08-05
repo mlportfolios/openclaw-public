@@ -4,16 +4,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>BBY · daily · OpenClaw</title>
-<meta name="description" content="BBY daily signal: Hold (1.02%). BBY is currently positioned for a short‑term hold based on a daily cross‑sectional momentum signal that has just entered the portfolio this cycle. The model indicates moderate upside potential, with… As of 2026-08-03, lagged 1d.">
+<meta name="description" content="BBY daily signal: Hold (6.98%). BBY is currently positioned for a short‑term hold based on a cross‑sectional momentum signal that has increased the portfolio weight from 1.02% to 6.98%, placing it in the top quartile of holdings. T… As of 2026-08-04, lagged 1d.">
 <link rel="canonical" href="https://mlportfolios.github.io/openclaw-public/daily/BBY.html">
 <meta property="og:title" content="BBY Daily: Hold">
-<meta property="og:description" content="BBY daily signal: Hold (1.02%). BBY is currently positioned for a short‑term hold based on a daily cross‑sectional momentum signal that has just entered the portfolio this cycle. The model indicates moderate upside potential, with… As of 2026-08-03, lagged 1d.">
+<meta property="og:description" content="BBY daily signal: Hold (6.98%). BBY is currently positioned for a short‑term hold based on a cross‑sectional momentum signal that has increased the portfolio weight from 1.02% to 6.98%, placing it in the top quartile of holdings. T… As of 2026-08-04, lagged 1d.">
 <meta property="og:url" content="https://mlportfolios.github.io/openclaw-public/daily/BBY.html">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MLPortfolios OpenClaw">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="BBY Daily: Hold">
-<meta name="twitter:description" content="BBY daily signal: Hold (1.02%). BBY is currently positioned for a short‑term hold based on a daily cross‑sectional momentum signal that has just entered the portfolio this cycle. The model indicates moderate upside potential, with… As of 2026-08-03, lagged 1d.">
+<meta name="twitter:description" content="BBY daily signal: Hold (6.98%). BBY is currently positioned for a short‑term hold based on a cross‑sectional momentum signal that has increased the portfolio weight from 1.02% to 6.98%, placing it in the top quartile of holdings. T… As of 2026-08-04, lagged 1d.">
 <style>
 :root { color-scheme: light dark; }
 * { box-sizing: border-box; }
@@ -59,6 +59,14 @@ ul.tickers li { padding: 0.4rem 0; border-bottom: 1px solid #eee; }
 @media (prefers-color-scheme: dark) { ul.tickers li { border-color: #2a2a2a; } }
 ul.tickers a { text-decoration: none; font-weight: 500; }
 .flags { font-size: 0.75rem; color: #999; margin-top: 0.4rem; }
+.override { border-left: 3px solid #b45309; background: #fdf6ec;
+            padding: 0.6rem 0.8rem; margin: 0 0 0.9rem 0;
+            font-size: 0.86rem; line-height: 1.5; border-radius: 3px; }
+.override strong { color: #7c4a08; }
+@media (prefers-color-scheme: dark) {
+  .override { background: #2a2114; border-color: #b45309; }
+  .override strong { color: #e0a758; }
+}
 .sparkline-wrap { display: flex; align-items: center; gap: 0.6rem;
                   margin: 0.4rem 0 0.8rem 0; }
 .sparkline { display: block; }
@@ -69,20 +77,21 @@ ul.tickers a { text-decoration: none; font-weight: 500; }
 </head>
 <body>
 <p><a href="../index.html">← all horizons</a> · <a href="../daily/index.html">daily</a></p>
-<h1>BBY <span class="signal signal-hold">Hold</span><span class="weight">1.02%</span></h1>
+<h1>BBY <span class="signal signal-hold">Hold</span><span class="weight">6.98%</span></h1>
 <div class="meta">daily horizon · Positioned for the next daily horizon</div>
-<div class="lag">As of 2026-08-03 · lagged 1d behind live</div>
+<div class="lag">As of 2026-08-04 · lagged 1d behind live</div>
 <div class="card">
-<h3>Why</h3><p>BBY is currently positioned for a short‑term hold based on a daily cross‑sectional momentum signal that has just entered the portfolio this cycle. The model indicates moderate upside potential, with an upside/downside uncertainty ratio of 1.68 and a predicted return for the next daily horizon.
 
-The trade aligns with the broader BEAR_QUIET regime where resolved directional signals have historically performed better than the all‑regime baseline (65% vs 57%). However, BBY sits in the lower quartile by weight (#18 of 22) and is underperforming its sector over the past five days. The analyst consensus remains neutral with a target below current price.</p>
-<h3>Risk</h3><p>The main risk is short interest at 9.7% of float combined with moderate regime confidence (39%) which could amplify downside if the bear regime persists or short covering pressure mounts.</p>
-<h3>Invalidation</h3><p>If BBY breaks below its recent support level or momentum reverses, the hold signal would be invalidated.</p>
-<h3>Regime note</h3><p>In the BEAR_QUIET regime, daily directional signals have a 65% hit rate, providing some confidence for this position.</p>
-<h3>Cross-horizon</h3><p>The single‑timeframe daily signal is not held in other portfolios, indicating no cross‑horizon alignment.</p>
+<h3>Why</h3><p>BBY is currently positioned for a short‑term hold based on a cross‑sectional momentum signal that has increased the portfolio weight from 1.02% to 6.98%, placing it in the top quartile of holdings. The model’s daily horizon aligns with the broader market context: BBY sits near the upper third of its 52‑week range and has outperformed the sector by 5.2 percentage points over five days, supporting a neutral stance.
+
+The signal remains robust because upside uncertainty (70.85) outweighs downside risk, and the model’s confidence in the BEAR_QUIET regime is moderate (39%) with a position‑size adjustment factor of ×0.76. The trade would be invalidated if BBY breaks below recent support or shows a momentum reversal, as indicated by the model’s inversion condition.</p>
+<h3>Risk</h3><p>The main risk to this trade is the moderate short interest of 9.7% of float and the 4.5 days to cover, which could amplify downside pressure if the market turns bearish.</p>
+<h3>Invalidation</h3><p>This setup would be invalidated if BBY falls below its recent support level or if a momentum reversal occurs.</p>
+<h3>Regime note</h3><p>In the current BEAR_QUIET regime, daily directional signals have historically hit 63% success, giving some confidence in holding BBY.</p>
+<h3>Cross-horizon</h3><p>The single‑timeframe signal is not held in other portfolios, indicating no cross‑horizon conflict.</p>
 </div>
 <div class="footer">
-  Generated 2026-08-05 05:53 UTC · MLPortfolios OpenClaw ·
+  Generated 2026-08-05 22:51 UTC · MLPortfolios OpenClaw ·
   <a href="../index.html">home</a> ·
   <a href="../stats.html">stats</a> ·
   Public cards lag the live product (daily 1d, weekly 7d, monthly 30d).
