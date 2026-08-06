@@ -7,6 +7,7 @@ https://mlportfolios.github.io/openclaw-public/daily/BBY.html
 https://mlportfolios.github.io/openclaw-public/daily/BLFS.html
 https://mlportfolios.github.io/openclaw-public/daily/BLLN.html
 https://mlportfolios.github.io/openclaw-public/daily/CENX.html
+https://mlportfolios.github.io/openclaw-public/daily/CXW.html
 https://mlportfolios.github.io/openclaw-public/daily/FINT.html
 https://mlportfolios.github.io/openclaw-public/daily/FTRE.html
 https://mlportfolios.github.io/openclaw-public/daily/GEO.html
@@ -68,6 +69,7 @@ https://mlportfolios.github.io/openclaw-public/monthly/NAT.html
 https://mlportfolios.github.io/openclaw-public/monthly/RLAY.html
 https://mlportfolios.github.io/openclaw-public/monthly/SSRM.html
 https://mlportfolios.github.io/openclaw-public/monthly/TIGO.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-07-07.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-05.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-04.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-03.html
