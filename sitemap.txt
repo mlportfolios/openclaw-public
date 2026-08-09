@@ -3,12 +3,14 @@ https://mlportfolios.github.io/openclaw-public/stats.html
 https://mlportfolios.github.io/openclaw-public/archive/index.html
 https://mlportfolios.github.io/openclaw-public/daily/index.html
 https://mlportfolios.github.io/openclaw-public/daily/ATEX.html
+https://mlportfolios.github.io/openclaw-public/daily/BBAR.html
 https://mlportfolios.github.io/openclaw-public/daily/BBY.html
 https://mlportfolios.github.io/openclaw-public/daily/BLFS.html
 https://mlportfolios.github.io/openclaw-public/daily/BLLN.html
 https://mlportfolios.github.io/openclaw-public/daily/CENX.html
 https://mlportfolios.github.io/openclaw-public/daily/CIB.html
 https://mlportfolios.github.io/openclaw-public/daily/CXW.html
+https://mlportfolios.github.io/openclaw-public/daily/DOC.html
 https://mlportfolios.github.io/openclaw-public/daily/FINT.html
 https://mlportfolios.github.io/openclaw-public/daily/FTRE.html
 https://mlportfolios.github.io/openclaw-public/daily/GEO.html
@@ -46,6 +48,7 @@ https://mlportfolios.github.io/openclaw-public/weekly/FOLD.html
 https://mlportfolios.github.io/openclaw-public/weekly/HP.html
 https://mlportfolios.github.io/openclaw-public/weekly/JAZZ.html
 https://mlportfolios.github.io/openclaw-public/weekly/LITE.html
+https://mlportfolios.github.io/openclaw-public/weekly/LNVGY.html
 https://mlportfolios.github.io/openclaw-public/weekly/LQDA.html
 https://mlportfolios.github.io/openclaw-public/weekly/NAT.html
 https://mlportfolios.github.io/openclaw-public/weekly/OII.html
@@ -71,6 +74,8 @@ https://mlportfolios.github.io/openclaw-public/monthly/NAT.html
 https://mlportfolios.github.io/openclaw-public/monthly/RLAY.html
 https://mlportfolios.github.io/openclaw-public/monthly/SSRM.html
 https://mlportfolios.github.io/openclaw-public/monthly/TIGO.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-07-10.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-07-09.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-08.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-07.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-05.html
