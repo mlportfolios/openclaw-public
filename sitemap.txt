@@ -13,6 +13,7 @@ https://mlportfolios.github.io/openclaw-public/daily/CENX.html
 https://mlportfolios.github.io/openclaw-public/daily/CIB.html
 https://mlportfolios.github.io/openclaw-public/daily/CXW.html
 https://mlportfolios.github.io/openclaw-public/daily/DOC.html
+https://mlportfolios.github.io/openclaw-public/daily/DVA.html
 https://mlportfolios.github.io/openclaw-public/daily/FINT.html
 https://mlportfolios.github.io/openclaw-public/daily/FTRE.html
 https://mlportfolios.github.io/openclaw-public/daily/GEO.html
