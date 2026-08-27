@@ -49,6 +49,7 @@ https://mlportfolios.github.io/openclaw-public/weekly/CAKE.html
 https://mlportfolios.github.io/openclaw-public/weekly/CENX.html
 https://mlportfolios.github.io/openclaw-public/weekly/CLMT.html
 https://mlportfolios.github.io/openclaw-public/weekly/DCTH.html
+https://mlportfolios.github.io/openclaw-public/weekly/DNTH.html
 https://mlportfolios.github.io/openclaw-public/weekly/ECPG.html
 https://mlportfolios.github.io/openclaw-public/weekly/HP.html
 https://mlportfolios.github.io/openclaw-public/weekly/HRB.html
@@ -84,6 +85,7 @@ https://mlportfolios.github.io/openclaw-public/monthly/NAT.html
 https://mlportfolios.github.io/openclaw-public/monthly/RLAY.html
 https://mlportfolios.github.io/openclaw-public/monthly/SSRM.html
 https://mlportfolios.github.io/openclaw-public/monthly/TIGO.html
+https://mlportfolios.github.io/openclaw-public/archive/2026-07-28.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-27.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-21.html
 https://mlportfolios.github.io/openclaw-public/archive/2026-07-19.html
