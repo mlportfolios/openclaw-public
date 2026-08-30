@@ -1,0 +1,17 @@
+{
+  "aggregation_method": "equal within UTC issue date; equal across issue dates",
+  "coverage_cohorts": [],
+  "embargo_days": 30,
+  "evidence_scope": "lagged accepted decisions due for resolution, plus verified mature source-bound outcomes",
+  "generated_at": "2026-08-30T18:37:11+00:00",
+  "information_cutoff": "2026-07-31T18:37:11+00:00",
+  "policy_decision_authority": false,
+  "policy_decision_status": "ineligible-v1-descriptive-only",
+  "receipt_due_at": "2026-11-28T18:35:44+00:00",
+  "receipt_kind": "rolling-observatory",
+  "released_cohorts": [],
+  "schema_version": "guardrail-observatory/v1",
+  "status": "collecting",
+  "study_id": "gate-policy-study-v1",
+  "surface": "Guardrail Observatory"
+}
