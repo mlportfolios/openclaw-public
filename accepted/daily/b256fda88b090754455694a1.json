@@ -1,0 +1,211 @@
+{
+  "accepted_at": "2026-09-18T04:32:39Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "b256fda88b090754455694a1",
+  "issued_at": "2026-09-18T04:21:27Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-09-19T04:32:39Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "AA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.007174209313258269,
+      "ticker": "ACVA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "ATEX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "BAP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.00994359796322926,
+      "ticker": "BBAR"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03608781902850982,
+      "ticker": "BBY"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.04544612434500316,
+      "ticker": "BLFS"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.008729166394051583,
+      "ticker": "BLLN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.11678890880394048,
+      "ticker": "BW"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CIB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03085155416751092,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CVS"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CXW"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOC"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "DVA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.010831646566947501,
+      "ticker": "FEIM"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0020217393199783115,
+      "ticker": "FTRE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "GEO"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "HP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07211301770369506,
+      "ticker": "HPE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "HUM"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05599375284795586,
+      "ticker": "IBEX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "IFS"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06105374584988032,
+      "ticker": "ILMN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.01760848025217022,
+      "ticker": "JOYY"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "LQDA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "MNPR"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "NTRS"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "RLJ"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "TKR"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0001132157613040726,
+      "ticker": "TXG"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "UHAL"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "dcbdd62d5da9fe418d2f67b2a593ab48209ac53df91c1b96dce8188ddf5ebcbf",
+    "artifact_sha256": "b2f477ae90c21b311db14bbf16f0426faef5214192e9a5706ce3eaaa85b8e3b9"
+  },
+  "source_time_for_delay": "2026-09-18T04:21:27Z",
+  "weight_denominator": "model_portfolio"
+}
