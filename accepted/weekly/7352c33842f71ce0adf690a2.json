@@ -1,0 +1,199 @@
+{
+  "accepted_at": "2026-09-19T14:57:16Z",
+  "historical_record": true,
+  "horizon": "weekly",
+  "id": "7352c33842f71ce0adf690a2",
+  "issued_at": "2026-09-19T14:47:33Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 7,
+  "public_after": "2026-09-26T14:57:16Z",
+  "rows": [
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "AA"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.022001623713920445,
+      "ticker": "ADPT"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.018333192397400718,
+      "ticker": "AVTR"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.022432433774714797,
+      "ticker": "BBNX"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.031107727570364986,
+      "ticker": "BW"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.05,
+      "ticker": "CMPS"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CON"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.021124371974097667,
+      "ticker": "DDD"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.01992176715552169,
+      "ticker": "FEIM"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "FTRE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "HP"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "ILMN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.017401418552757054,
+      "ticker": "IOVA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "KRT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "LITE"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.018168413915938587,
+      "ticker": "LNVGY"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.024914420643925246,
+      "ticker": "MGNI"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.04850013352074344,
+      "ticker": "MPC"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "NTRS"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "OSPN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05,
+      "ticker": "PI"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.027736672826429536,
+      "ticker": "PUBM"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.04554961672889672,
+      "ticker": "RBRK"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.049604952634976496,
+      "ticker": "RVTY"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.03631536311168899,
+      "ticker": "SDGR"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.017121755899358593,
+      "ticker": "TWST"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "VIA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.021599020929430633,
+      "ticker": "XRX"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "552da8794859cd5e54c993f056c122c632a88dae9b2724f4dbb949d14d53cd5b",
+    "artifact_sha256": "e07a3000a426094c2946a5fbb1a003f29262767dba0627c724a995dc9bad00a6"
+  },
+  "source_time_for_delay": "2026-09-19T14:47:33Z",
+  "weight_denominator": "model_portfolio"
+}
