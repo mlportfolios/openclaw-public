@@ -1,0 +1,97 @@
+{
+  "accepted_at": "2026-09-01T03:34:05Z",
+  "historical_record": true,
+  "horizon": "monthly",
+  "id": "ae52ef8b051b71b659c6020a",
+  "issued_at": "2026-09-01T02:56:57Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 30,
+  "public_after": "2026-10-01T03:34:05Z",
+  "rows": [
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.10149668187600294,
+      "ticker": "AA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "BW"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CENX"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.09937273455568,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "ERAS"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0883325531135282,
+      "ticker": "FOSL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.055393809219877174,
+      "ticker": "LITE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "NAT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "RLAY"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.09109676528126083,
+      "ticker": "SSRM"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "TIGO"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "6f8ab9bc242c241c05c89faa032826b27a8665a2b76a8e2eaa3d03685b0e2a04",
+    "artifact_sha256": "153a3006662b686431ca263d73751466070fa27b1e1f8692907c32f12efc7f5a"
+  },
+  "source_time_for_delay": "2026-09-01T02:56:57Z",
+  "weight_denominator": "model_portfolio"
+}

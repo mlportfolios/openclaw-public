@@ -1,4 +1,5 @@
 https://mlportfolios.github.io/openclaw-public/accepted/daily/055ea12a3345407110ece0c7.html
+https://mlportfolios.github.io/openclaw-public/accepted/daily/077132d40f52414f8408d9cd.html
 https://mlportfolios.github.io/openclaw-public/accepted/daily/12155906f3f33d38bfa52949.html
 https://mlportfolios.github.io/openclaw-public/accepted/daily/14c80b6f298af2a72c9e8e6d.html
 https://mlportfolios.github.io/openclaw-public/accepted/daily/15a37d66d68f4671383cd197.html
@@ -29,6 +30,7 @@ https://mlportfolios.github.io/openclaw-public/accepted/daily/dcfefa130c2aeb1a74
 https://mlportfolios.github.io/openclaw-public/accepted/daily/e4627dae9262b2433f5137ef.html
 https://mlportfolios.github.io/openclaw-public/accepted/index.html
 https://mlportfolios.github.io/openclaw-public/accepted/monthly/828f5c96ee2f791383d647d3.html
+https://mlportfolios.github.io/openclaw-public/accepted/monthly/ae52ef8b051b71b659c6020a.html
 https://mlportfolios.github.io/openclaw-public/accepted/weekly/23fedf5a62f4d275b472ea2a.html
 https://mlportfolios.github.io/openclaw-public/accepted/weekly/7352c33842f71ce0adf690a2.html
 https://mlportfolios.github.io/openclaw-public/accepted/weekly/9c1d1985028c2af0bc368ae2.html
@@ -158,7 +160,6 @@ https://mlportfolios.github.io/openclaw-public/monthly/AA.html
 https://mlportfolios.github.io/openclaw-public/monthly/BW.html
 https://mlportfolios.github.io/openclaw-public/monthly/CENX.html
 https://mlportfolios.github.io/openclaw-public/monthly/CLMT.html
-https://mlportfolios.github.io/openclaw-public/monthly/CMRX.html
 https://mlportfolios.github.io/openclaw-public/monthly/DFTX.html
 https://mlportfolios.github.io/openclaw-public/monthly/DOCN.html
 https://mlportfolios.github.io/openclaw-public/monthly/ERAS.html
