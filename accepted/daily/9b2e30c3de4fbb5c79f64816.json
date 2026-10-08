@@ -1,0 +1,79 @@
+{
+  "accepted_at": "2026-10-07T06:28:50Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "9b2e30c3de4fbb5c79f64816",
+  "issued_at": "2026-10-07T06:23:26Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-08T06:28:50Z",
+  "rows": [
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.34179015678906927,
+      "ticker": "AAMI"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.09367601410117726,
+      "ticker": "BLFS"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.024852040725289883,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0029181759160483447,
+      "ticker": "CHEF"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0074410849618873455,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.026439025289187224,
+      "ticker": "GRAL"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "HP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07943890832338851,
+      "ticker": "PD"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "69f90000042cdb81939dde1d2c1f545d52584accc75ed140f585f4ad87d15de3",
+    "artifact_sha256": "3895fbe86049bc5d3f72e6cb2418ea86f0c52f4bed1c81d7d0bdbdfb3e0e6b74"
+  },
+  "source_time_for_delay": "2026-10-07T06:23:26Z",
+  "weight_denominator": "model_portfolio"
+}
