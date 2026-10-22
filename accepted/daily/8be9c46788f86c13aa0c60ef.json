@@ -1,0 +1,103 @@
+{
+  "accepted_at": "2026-10-21T06:12:08Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "8be9c46788f86c13aa0c60ef",
+  "issued_at": "2026-10-21T06:03:06Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-22T06:12:08Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06280187634234782,
+      "ticker": "CLDT"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.13052768436414414,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.006419544418873222,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "IOVA"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.021484292813983688,
+      "ticker": "LIFE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.009214732580272486,
+      "ticker": "MRNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "NTAP"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.26585684688355016,
+      "ticker": "PAYC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06387574750658621,
+      "ticker": "SLDE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.10520563734831638,
+      "ticker": "TEAM"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07275943493520334,
+      "ticker": "VRNS"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "519669c205be192573354c6bb1a568485fea857a5663c9bf7e14576fe31076a3",
+    "artifact_sha256": "a0494ebeff7bca4a797b676a22857a1599edde4a8baffc5ff981ccd9d694e1cb"
+  },
+  "source_time_for_delay": "2026-10-21T06:03:06Z",
+  "weight_denominator": "model_portfolio"
+}
