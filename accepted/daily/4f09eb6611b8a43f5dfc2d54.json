@@ -1,0 +1,97 @@
+{
+  "accepted_at": "2026-10-20T06:16:05Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "4f09eb6611b8a43f5dfc2d54",
+  "issued_at": "2026-10-20T06:08:04Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-21T06:16:05Z",
+  "rows": [
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.06895394249597432,
+      "ticker": "ANF"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.08300133232182108,
+      "ticker": "CLDT"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.057012495717899646,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.05605927632288782,
+      "ticker": "ESTC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06886133085534922,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07503082577240482,
+      "ticker": "MRNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "NTAP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.08467332577293005,
+      "ticker": "SLDE"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.09411979377763607,
+      "ticker": "TEAM"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.038138508076607236,
+      "ticker": "VEEV"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.11959393176636855,
+      "ticker": "VRNS"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "9bd6533fa169fa631d4a7acffff081f513da3d463de47432da48f5bf14ea00d3",
+    "artifact_sha256": "7f51321f7e3722615d872e9cb5ee1bb3fada2674dda71475ae0d1ecd0a1cf8f4"
+  },
+  "source_time_for_delay": "2026-10-20T06:08:04Z",
+  "weight_denominator": "model_portfolio"
+}

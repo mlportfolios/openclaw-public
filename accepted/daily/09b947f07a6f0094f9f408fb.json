@@ -1,0 +1,97 @@
+{
+  "accepted_at": "2026-10-08T12:01:25Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "09b947f07a6f0094f9f408fb",
+  "issued_at": "2026-10-08T06:58:57Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-09T12:01:25Z",
+  "rows": [
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.13666529459258836,
+      "ticker": "AAMI"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "BLFS"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07739952275846494,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.3074216744456459,
+      "ticker": "CHEF"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0023941815690471015,
+      "ticker": "GRAL"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "HP"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.028945271238366488,
+      "ticker": "OKTA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06510322571034488,
+      "ticker": "PD"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.09893344638083634,
+      "ticker": "PI"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.004247476237542091,
+      "ticker": "PSIX"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "3a763ed735e7997bbeec68cee01c12e8da77ede79fbe54de9588ce1b75bcb023",
+    "artifact_sha256": "4af9fdcfb75be1c2d216e542c82a7e9937eb27748fa50ac04f9f97cbf7da5490"
+  },
+  "source_time_for_delay": "2026-10-08T06:58:57Z",
+  "weight_denominator": "model_portfolio"
+}

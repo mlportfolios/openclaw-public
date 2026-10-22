@@ -1,0 +1,103 @@
+{
+  "accepted_at": "2026-10-09T05:18:42Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "c114f658c207c17b7b124fae",
+  "issued_at": "2026-10-09T05:12:09Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-10T05:18:42Z",
+  "rows": [
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.29002268337331394,
+      "ticker": "AAMI"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "BLFS"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.003208019032259012,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.2783339117017514,
+      "ticker": "CHEF"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.022999476779335008,
+      "ticker": "GRAL"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "HP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.00418783933720912,
+      "ticker": "OKTA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0029871201383779946,
+      "ticker": "PD"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.08350470302107596,
+      "ticker": "PI"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.004735623883961128,
+      "ticker": "PSIX"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.11947898123448195,
+      "ticker": "SMCI"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "d11d0322c4882291a31547f2c0985408f1eb99accc10cc777b3cd3a23d461833",
+    "artifact_sha256": "d79e38139d63f4fbc725197819eb18c6659541d6c70caf7b1928ddef2fca6f12"
+  },
+  "source_time_for_delay": "2026-10-09T05:12:09Z",
+  "weight_denominator": "model_portfolio"
+}

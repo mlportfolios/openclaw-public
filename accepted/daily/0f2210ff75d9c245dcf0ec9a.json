@@ -1,0 +1,109 @@
+{
+  "accepted_at": "2026-10-15T06:23:48Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "0f2210ff75d9c245dcf0ec9a",
+  "issued_at": "2026-10-15T06:15:57Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-16T06:23:48Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "ACVA"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.006229351036785428,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.4342285446134011,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0032275580252577223,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.14327566963291188,
+      "ticker": "MRNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.012061473025152836,
+      "ticker": "NTAP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.01155546450776152,
+      "ticker": "OKTA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0034928032292663026,
+      "ticker": "PD"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PI"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.10507884991420914,
+      "ticker": "RIGL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0018773731634519192,
+      "ticker": "SNOW"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07454479237879165,
+      "ticker": "VEEV"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "XMTR"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "e1aec234767e882ba907adc2e34765cc16e16db7a4a2fbaff2782162936a5a79",
+    "artifact_sha256": "ba12cf479f9872cae3b0aba63eda20552b0036240a962ed071d1689198cce3a9"
+  },
+  "source_time_for_delay": "2026-10-15T06:15:57Z",
+  "weight_denominator": "model_portfolio"
+}

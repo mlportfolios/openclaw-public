@@ -1,0 +1,103 @@
+{
+  "accepted_at": "2026-10-13T03:38:38Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "be4234915d382c9b5f9ce508",
+  "issued_at": "2026-10-13T03:30:14Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-14T03:38:38Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.010741286423466782,
+      "ticker": "ESTC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.15637956966903577,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0013441701628314447,
+      "ticker": "HAE"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.07936034292949316,
+      "ticker": "IOVA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07038040955518911,
+      "ticker": "NTAP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.003367243676315645,
+      "ticker": "OKTA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.01148672861412235,
+      "ticker": "PD"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.45860993842270165,
+      "ticker": "PSIX"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05215864146775543,
+      "ticker": "RIGL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03858009291080512,
+      "ticker": "SNOW"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "XMTR"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "fa7fd3455badb6045a2a75428e97dc7913551f1ac4656e35d28c7c24b0eec557",
+    "artifact_sha256": "8e2db3a5896c734e24bd0a6b1c7c0d3cc7b2c9f41c876c2dd7030879cb740db1"
+  },
+  "source_time_for_delay": "2026-10-13T03:30:14Z",
+  "weight_denominator": "model_portfolio"
+}

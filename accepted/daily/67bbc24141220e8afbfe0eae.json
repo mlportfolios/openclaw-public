@@ -1,0 +1,103 @@
+{
+  "accepted_at": "2026-10-14T07:56:52Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "67bbc24141220e8afbfe0eae",
+  "issued_at": "2026-10-14T07:49:01Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-15T07:56:52Z",
+  "rows": [
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.1274293321677498,
+      "ticker": "ASX"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.0976328342226098,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0518921296769878,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "IOVA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.11262613979424341,
+      "ticker": "NTAP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.02665724099145169,
+      "ticker": "OKTA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.04251082584409969,
+      "ticker": "PD"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06324434604070334,
+      "ticker": "RIGL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.006033959390113172,
+      "ticker": "SNOW"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.038486654256062625,
+      "ticker": "VEEV"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "XMTR"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "be10e74f66386483f8f7f544f8e22550ed8d9067701f9199502505961a6d4ddc",
+    "artifact_sha256": "2ee7fcc1a87c18fa0220af4aafa83c0b89b516bedb67dfbde8381217797a5d5e"
+  },
+  "source_time_for_delay": "2026-10-14T07:49:01Z",
+  "weight_denominator": "model_portfolio"
+}
