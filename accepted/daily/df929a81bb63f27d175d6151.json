@@ -1,0 +1,139 @@
+{
+  "accepted_at": "2026-10-23T10:46:53Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "df929a81bb63f27d175d6151",
+  "issued_at": "2026-10-23T10:31:46Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-24T10:46:53Z",
+  "rows": [
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03477432603387503,
+      "ticker": "ANF"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.17348165675929086,
+      "ticker": "CLDT"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.31320064894556143,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.013994535684197623,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 8.180000121741367e-05,
+      "ticker": "ESTC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07456209412027635,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "IOVA"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "MRNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "NTAP"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "NTSK"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.022988229238733518,
+      "ticker": "PAYC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0015411102849485754,
+      "ticker": "PD"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.019922446588969713,
+      "ticker": "SLDE"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.040886548447859904,
+      "ticker": "SSL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06763121944152677,
+      "ticker": "TEAM"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.06029923579557969,
+      "ticker": "VEEV"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.062202916539122084,
+      "ticker": "VRNS"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "2ac5d7935e9ad6ebec8a66bed48b0bdef978fc2795c7b0292c9c53213431cca2",
+    "artifact_sha256": "7ac0db210b707d8beead1f80f80797701b8fe4c722df3c9dba4a5adbcab66386"
+  },
+  "source_time_for_delay": "2026-10-23T10:31:46Z",
+  "weight_denominator": "model_portfolio"
+}
