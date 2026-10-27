@@ -1,0 +1,115 @@
+{
+  "accepted_at": "2026-10-26T01:21:11Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "ea7ea6bcde26618686068b56",
+  "issued_at": "2026-10-26T01:11:53Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-27T01:21:11Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.18603335759234943,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0009803674794364166,
+      "ticker": "ESTC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.027528397434034145,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "GTLB"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.06570355500220322,
+      "ticker": "HNGE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "HP"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.04852055374858632,
+      "ticker": "MEDP"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "NTSK"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.035901980048340436,
+      "ticker": "PAYC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.008104386131055906,
+      "ticker": "PD"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.04936945758380237,
+      "ticker": "QGEN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0023317961330723536,
+      "ticker": "SSL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05860526588662211,
+      "ticker": "TEAM"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "7699ea109eea8d5475f65d62e10eb64e502bc974b037d65577d4095df704967d",
+    "artifact_sha256": "9a7e7c516e44ff239f56ef789c33afa3c087441ccd4a3348b17c73de5e214fdf"
+  },
+  "source_time_for_delay": "2026-10-26T01:11:53Z",
+  "weight_denominator": "model_portfolio"
+}
