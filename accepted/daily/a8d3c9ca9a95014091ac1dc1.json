@@ -1,0 +1,133 @@
+{
+  "accepted_at": "2026-10-29T08:46:22Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "a8d3c9ca9a95014091ac1dc1",
+  "issued_at": "2026-10-29T08:36:23Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-30T08:46:22Z",
+  "rows": [
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.09973595679546156,
+      "ticker": "ANF"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.12653027871724576,
+      "ticker": "CAI"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03848491249511634,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 9.390832119157411e-06,
+      "ticker": "FTRE"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.04215884634141991,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.024102621887509165,
+      "ticker": "GTLB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.09544076770622148,
+      "ticker": "HNGE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "HP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0009279686342532817,
+      "ticker": "ILMN"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "IOVA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.09086420528411136,
+      "ticker": "MEDP"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "MRNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.005321771942773377,
+      "ticker": "PD"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.037506649225966145,
+      "ticker": "QGEN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.034510936542204294,
+      "ticker": "SG"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.044586672480071726,
+      "ticker": "VEEV"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "18c116ba17d58607ed669724016539167bc1b9a69d88850e5c1e8c68f26a7e0c",
+    "artifact_sha256": "d287cc1ac8ee6eb5a224d7e08c4a8a1cdfda5008ebcc12789a3b3ccdaee84cc5"
+  },
+  "source_time_for_delay": "2026-10-29T08:36:23Z",
+  "weight_denominator": "model_portfolio"
+}
