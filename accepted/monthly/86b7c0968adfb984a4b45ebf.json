@@ -1,0 +1,97 @@
+{
+  "accepted_at": "2026-10-01T03:47:21Z",
+  "historical_record": true,
+  "horizon": "monthly",
+  "id": "86b7c0968adfb984a4b45ebf",
+  "issued_at": "2026-10-01T03:39:38Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 30,
+  "public_after": "2026-10-31T03:47:21Z",
+  "rows": [
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.09348770817587694,
+      "ticker": "AA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "BW"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CENX"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.13307927419762983,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.07888601335245805,
+      "ticker": "ERAS"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.08510155560820865,
+      "ticker": "FOSL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.034207308683183744,
+      "ticker": "LITE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "NAT"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "RLAY"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "SSRM"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "TIGO"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "61bcdde872a2ad448084b92f92c9ae1b5af4838f8f98908573a5edd3cca0e3f2",
+    "artifact_sha256": "e9957971d36a3c06edcf7c4a26fb18f4ae316fa63c10b04fd31d42c5e37eb34a"
+  },
+  "source_time_for_delay": "2026-10-01T03:39:38Z",
+  "weight_denominator": "model_portfolio"
+}
