@@ -1,0 +1,121 @@
+{
+  "accepted_at": "2026-10-30T01:54:49Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "b8db92235ea8d19dcd481294",
+  "issued_at": "2026-10-30T01:43:10Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-10-31T01:54:49Z",
+  "rows": [
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.028368809843695414,
+      "ticker": "ANF"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.10765048336103342,
+      "ticker": "CAI"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CLMT"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.007734670239669677,
+      "ticker": "DFTX"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.019657048595117035,
+      "ticker": "DOCN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.04735457703194078,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0027014417592564222,
+      "ticker": "GTLB"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.028153609183736026,
+      "ticker": "HAE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.029071365471666846,
+      "ticker": "HNGE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "HP"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.35634785554745824,
+      "ticker": "HTFL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.007391827573670224,
+      "ticker": "ILMN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07327947346376662,
+      "ticker": "MEDP"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "MRNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.004951059455292396,
+      "ticker": "PD"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06022426793611626,
+      "ticker": "QGEN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.15891439450372297,
+      "ticker": "SG"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "bfedf34029470417a8c6b27f43bdad830802911784288c85ca0b454421b3c94d",
+    "artifact_sha256": "67e47833595fdb298b3d21915af0ec3ae5ab3d62019d4f074ac7a058a5e02106"
+  },
+  "source_time_for_delay": "2026-10-30T01:43:10Z",
+  "weight_denominator": "model_portfolio"
+}
