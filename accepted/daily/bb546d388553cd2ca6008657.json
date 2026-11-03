@@ -1,0 +1,103 @@
+{
+  "accepted_at": "2026-11-02T04:14:27Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "bb546d388553cd2ca6008657",
+  "issued_at": "2026-11-02T03:57:59Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-03T04:14:27Z",
+  "rows": [
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.011651133620973439,
+      "ticker": "ANF"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.00272122885410928,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 7.558226216516731e-06,
+      "ticker": "FTRE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "GRAL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07592829868220546,
+      "ticker": "HAE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.1676335656842072,
+      "ticker": "HNGE"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.17242401570065055,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06908783037447676,
+      "ticker": "MEDP"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03202311753544801,
+      "ticker": "QGEN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.24976399991580536,
+      "ticker": "RCRUY"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.03290292582121011,
+      "ticker": "RIGL"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.013777566150704437,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.10343714235247739,
+      "ticker": "TGTX"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "2469ddfaffe98dbc68802f575084555941acb0e7f2019b27b268e2ebc1bcc5af",
+    "artifact_sha256": "2b6181b8ff54cbb7b48414ca0977c4ada3b0c6847ad6962f0c996e34505479d7"
+  },
+  "source_time_for_delay": "2026-11-02T03:57:59Z",
+  "weight_denominator": "model_portfolio"
+}
