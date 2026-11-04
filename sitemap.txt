@@ -46,6 +46,7 @@ https://mlportfolios.github.io/openclaw-public/accepted/daily/be4234915d382c9b5f
 https://mlportfolios.github.io/openclaw-public/accepted/daily/c114f658c207c17b7b124fae.html
 https://mlportfolios.github.io/openclaw-public/accepted/daily/c1551b022aea3eacd2e632f1.html
 https://mlportfolios.github.io/openclaw-public/accepted/daily/c3bd8b5df8255dfbe2373a80.html
+https://mlportfolios.github.io/openclaw-public/accepted/daily/ccf18896f1b9d1dd2be87e27.html
 https://mlportfolios.github.io/openclaw-public/accepted/daily/cff15b53cf54abbe06b81172.html
 https://mlportfolios.github.io/openclaw-public/accepted/daily/d0ea95aadf66d909f29e906f.html
 https://mlportfolios.github.io/openclaw-public/accepted/daily/da14a043bd82f48aa5212da8.html
@@ -151,6 +152,7 @@ https://mlportfolios.github.io/openclaw-public/archive/2026-07-30.html
 https://mlportfolios.github.io/openclaw-public/archive/index.html
 https://mlportfolios.github.io/openclaw-public/daily/ANF.html
 https://mlportfolios.github.io/openclaw-public/daily/CDNA.html
+https://mlportfolios.github.io/openclaw-public/daily/CRVL.html
 https://mlportfolios.github.io/openclaw-public/daily/FTRE.html
 https://mlportfolios.github.io/openclaw-public/daily/GRAL.html
 https://mlportfolios.github.io/openclaw-public/daily/HAE.html
@@ -159,8 +161,9 @@ https://mlportfolios.github.io/openclaw-public/daily/KNSA.html
 https://mlportfolios.github.io/openclaw-public/daily/MEDP.html
 https://mlportfolios.github.io/openclaw-public/daily/PTC.html
 https://mlportfolios.github.io/openclaw-public/daily/QGEN.html
-https://mlportfolios.github.io/openclaw-public/daily/RCRUY.html
 https://mlportfolios.github.io/openclaw-public/daily/RIGL.html
+https://mlportfolios.github.io/openclaw-public/daily/SG.html
+https://mlportfolios.github.io/openclaw-public/daily/SIG.html
 https://mlportfolios.github.io/openclaw-public/daily/SLN.html
 https://mlportfolios.github.io/openclaw-public/daily/TGTX.html
 https://mlportfolios.github.io/openclaw-public/daily/index.html
