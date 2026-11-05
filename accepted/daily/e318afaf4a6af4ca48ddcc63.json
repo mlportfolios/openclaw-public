@@ -1,0 +1,109 @@
+{
+  "accepted_at": "2026-11-04T06:21:08Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "e318afaf4a6af4ca48ddcc63",
+  "issued_at": "2026-11-04T06:04:24Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-05T06:21:08Z",
+  "rows": [
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.022664953211987058,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.014622540194171188,
+      "ticker": "FTRE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "GRAL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.013968628172351158,
+      "ticker": "HAE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0076688689104208035,
+      "ticker": "HNGE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.18932008826740646,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06802037397583824,
+      "ticker": "MEDP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.007303732957288325,
+      "ticker": "QGEN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.008270976924639573,
+      "ticker": "RIGL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03199322718023431,
+      "ticker": "SIG"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.12650256911819174,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "TBBB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06861893343136093,
+      "ticker": "TGTX"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.01743550066946943,
+      "ticker": "VRNS"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "be0272aad5587519a6f3a93bdbcaf187a66a32c4652084ab8d358dcd4c3f97fa",
+    "artifact_sha256": "3fb777b8449229804d044612f7c45f10ebbeef24e2c1c29efe68b175ce739e42"
+  },
+  "source_time_for_delay": "2026-11-04T06:04:24Z",
+  "weight_denominator": "model_portfolio"
+}
