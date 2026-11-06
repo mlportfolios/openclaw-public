@@ -1,0 +1,145 @@
+{
+  "accepted_at": "2026-11-05T03:24:55Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "54043fc8eae15a388c83238c",
+  "issued_at": "2026-11-05T03:13:49Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-06T03:24:55Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "ANF"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CAI"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.018674841635643997,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.15004776931505265,
+      "ticker": "CON"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "FTRE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "GRAL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03637579728961613,
+      "ticker": "HAE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.00739849364675914,
+      "ticker": "HNGE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0625279050588966,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.010060069656373441,
+      "ticker": "MEDP"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "MRNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.020080779903421223,
+      "ticker": "QGEN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.048223296394723676,
+      "ticker": "RIGL"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.02545395682612183,
+      "ticker": "SG"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07472222784428562,
+      "ticker": "SIG"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05071117990805376,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.24065695295959547,
+      "ticker": "TBBB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03528455053070948,
+      "ticker": "TGTX"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.035932585241050134,
+      "ticker": "VIA"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "a3bf15bb17a0a407ca4b9bd98d255f40bf31c2c891a9275c2a1876ec03b9fd1a",
+    "artifact_sha256": "07b870276c66307da4c1c5d1e39b62ad7fdc92a7d75b7e489f1a0005e0847812"
+  },
+  "source_time_for_delay": "2026-11-05T03:13:49Z",
+  "weight_denominator": "model_portfolio"
+}
