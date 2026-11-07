@@ -1,0 +1,205 @@
+{
+  "accepted_at": "2026-10-31T19:29:39Z",
+  "historical_record": true,
+  "horizon": "weekly",
+  "id": "cf5e0b27bacb82c6ac18a08f",
+  "issued_at": "2026-10-31T19:10:37Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 7,
+  "public_after": "2026-11-07T19:29:39Z",
+  "rows": [
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.024711227334782336,
+      "ticker": "ABM"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.016472772516190885,
+      "ticker": "ACCO"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "AMC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.02729490368668672,
+      "ticker": "AMRX"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.014861426560285865,
+      "ticker": "ANDG"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.026337306575559834,
+      "ticker": "CAI"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.036713109832014174,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.03474815987925663,
+      "ticker": "CLDT"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05,
+      "ticker": "FTRE"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.023337609563521895,
+      "ticker": "GDYN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.04413333263063566,
+      "ticker": "GH"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.049838800538319385,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "GRAL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05,
+      "ticker": "HNGE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "HP"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.02079099600344221,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "LITE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05,
+      "ticker": "MEDP"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "NTRA"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.029002873619175733,
+      "ticker": "OSPN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.03036195262752952,
+      "ticker": "PRCH"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05,
+      "ticker": "QGEN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.020083826605428408,
+      "ticker": "REPL"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "RIGL"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.017020211828542905,
+      "ticker": "RPD"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.018758967222090066,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.02472238157704093,
+      "ticker": "STGW"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.05,
+      "ticker": "TGTX"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.026733895826409698,
+      "ticker": "W"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "WAT"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.026492290908512336,
+      "ticker": "XNCR"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "19f0cf5fee2e1ef4f17de395a9fb8d229e37f759a926bfb354a4c6378c747bc4",
+    "artifact_sha256": "d0e70a06ac1654ad99c8510654b8e2c4b32a6b8eba574e05c9788fcb565b90de"
+  },
+  "source_time_for_delay": "2026-10-31T19:10:37Z",
+  "weight_denominator": "model_portfolio"
+}
