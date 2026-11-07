@@ -1,0 +1,121 @@
+{
+  "accepted_at": "2026-11-06T09:58:53Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "0d6aa683159a8292fbe022e9",
+  "issued_at": "2026-11-06T09:47:46Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-07T09:58:53Z",
+  "rows": [
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.03714001838045223,
+      "ticker": "APPN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.033297582489021565,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "FTRE"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "GRAL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.008466216405518144,
+      "ticker": "HAE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0009751716960338632,
+      "ticker": "HNGE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.04268898644326236,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.012034548915719612,
+      "ticker": "MEDP"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.003105746868776805,
+      "ticker": "QGEN"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "RIGL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07783041147566229,
+      "ticker": "SG"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.012915748546048727,
+      "ticker": "SIG"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.12604837680421366,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.42978639139642016,
+      "ticker": "TBBB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.06589431857021302,
+      "ticker": "TGTX"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "388b4ac953628055547bbf259bf7899dd02581d98ee33621c6b65a9b1f6bdb79",
+    "artifact_sha256": "c87d85bc476f56ca0439a3b37c19fa3ebd35ca39f08781e2449a6958193d1f8a"
+  },
+  "source_time_for_delay": "2026-11-06T09:47:46Z",
+  "weight_denominator": "model_portfolio"
+}
