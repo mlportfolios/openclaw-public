@@ -1,0 +1,115 @@
+{
+  "accepted_at": "2026-11-10T08:39:57Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "e1277075d85c1a6a93503374",
+  "issued_at": "2026-11-10T08:27:00Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-11T08:39:57Z",
+  "rows": [
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.009263514705575609,
+      "ticker": "ARHS"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.07634115534399719,
+      "ticker": "ASO"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.007406138717400968,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.022547273911335642,
+      "ticker": "ELF"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.009932675715826232,
+      "ticker": "FOSL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.02339004642543197,
+      "ticker": "FTDR"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.017501856635020602,
+      "ticker": "GMAB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0029110826247442617,
+      "ticker": "IBEX"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0005248825422516826,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.01878611476115672,
+      "ticker": "MRNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "MTD"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "SG"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.04347848686581161,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.6085762817465812,
+      "ticker": "TBBB"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.01594055575840106,
+      "ticker": "USPH"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "89602e37de9f47babdf1000b66bbee27d53f2c084ed1e29fd3feda1bd23d202e",
+    "artifact_sha256": "9f792825a5402e66d2b4e76feda870933322dc57a72a98ee097e6cc3ec154de9"
+  },
+  "source_time_for_delay": "2026-11-10T08:27:00Z",
+  "weight_denominator": "model_portfolio"
+}
