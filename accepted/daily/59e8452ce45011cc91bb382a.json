@@ -1,0 +1,97 @@
+{
+  "accepted_at": "2026-11-12T11:19:34Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "59e8452ce45011cc91bb382a",
+  "issued_at": "2026-11-12T11:08:13Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-13T11:19:34Z",
+  "rows": [
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.027518785252416498,
+      "ticker": "ARHS"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.0028188325705356797,
+      "ticker": "BMBL"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.11406678428535318,
+      "ticker": "ELF"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "FIGS"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0626368289734944,
+      "ticker": "FOSL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.008686237768727229,
+      "ticker": "FTDR"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.391555158318946,
+      "ticker": "HTFL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.049341930815543576,
+      "ticker": "IBEX"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.004316408845326202,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.1023816529219503,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.005438973001616941,
+      "ticker": "USPH"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "b8c9584f65c917dc82615208595fbe49be475ff491ffc1124d54911573513b0c",
+    "artifact_sha256": "79705101f30a953f03142130fb1c052916db277c7132ecd4dd04c3779a19a9da"
+  },
+  "source_time_for_delay": "2026-11-12T11:08:13Z",
+  "weight_denominator": "model_portfolio"
+}
