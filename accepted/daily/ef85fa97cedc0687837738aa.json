@@ -1,0 +1,109 @@
+{
+  "accepted_at": "2026-11-13T21:10:43Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "ef85fa97cedc0687837738aa",
+  "issued_at": "2026-11-13T17:13:29Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-14T21:10:43Z",
+  "rows": [
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.1528622337459918,
+      "ticker": "APPN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0783387236747142,
+      "ticker": "ARHS"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.029732352290382028,
+      "ticker": "BMBL"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.03794634450408064,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.04876115181269936,
+      "ticker": "ELF"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.052758844461577595,
+      "ticker": "FOSL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.006577455709002066,
+      "ticker": "FTDR"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.0001528653756181081,
+      "ticker": "HAE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.04213063986672064,
+      "ticker": "IBEX"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.008736593891262677,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "RXO"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.044404547044144885,
+      "ticker": "USPH"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "9e9f133b147688d0c0ce72ba55c48a1fce45776e0e0a308dc05fe179293860f2",
+    "artifact_sha256": "214575bf14a878aebaedc10cc77655fe8226fb0b40397aac6781e69f0af8d82d"
+  },
+  "source_time_for_delay": "2026-11-13T17:13:29Z",
+  "weight_denominator": "model_portfolio"
+}
