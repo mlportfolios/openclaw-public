@@ -1,0 +1,97 @@
+{
+  "accepted_at": "2026-11-16T02:03:01Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "e1b5cd8d739885f6a3c627a7",
+  "issued_at": "2026-11-16T01:50:59Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-17T02:03:01Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "ABM"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.005657718392542783,
+      "ticker": "AMPL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.005483230608511477,
+      "ticker": "BMBL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.022179136138463736,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.011393731717033005,
+      "ticker": "ELF"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.016174512652944964,
+      "ticker": "HP"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.07659320973590095,
+      "ticker": "JAKK"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.14170031361121116,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "RXO"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.11430569084808329,
+      "ticker": "VIA"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "e281d715a274ef26b9a2eb5b121883937b299709785742095a7844bb4b0cc92f",
+    "artifact_sha256": "6dee3314f26b117f36385a1b7223235895ad5db18a304027022e9294479aeeb8"
+  },
+  "source_time_for_delay": "2026-11-16T01:50:59Z",
+  "weight_denominator": "model_portfolio"
+}
