@@ -1,0 +1,115 @@
+{
+  "accepted_at": "2026-11-17T05:29:28Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "c55cfb78bd58367e42665307",
+  "issued_at": "2026-11-17T05:15:21Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-18T05:29:28Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "ABM"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.037813176933160796,
+      "ticker": "AMPL"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.05512610324957425,
+      "ticker": "APPN"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.09703090934640246,
+      "ticker": "ASO"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0038563638099958653,
+      "ticker": "BMBL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0023044987226789795,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.043763800846649346,
+      "ticker": "HNGE"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.049889657277286344,
+      "ticker": "HP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03137454884889146,
+      "ticker": "JAKK"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0017202954591461128,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.02937199199132682,
+      "ticker": "PCRX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "RXO"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.07854679262442124,
+      "ticker": "VIA"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "d582817c3c248599a0a26d80905bb17a64484fb67dfd04c49d79447f9eb86aba",
+    "artifact_sha256": "52a0761f617b08c772af4d738041c69e236c4742f0651701115e0d3bde3ed1a1"
+  },
+  "source_time_for_delay": "2026-11-17T05:15:21Z",
+  "weight_denominator": "model_portfolio"
+}
