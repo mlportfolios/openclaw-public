@@ -1,0 +1,91 @@
+{
+  "accepted_at": "2026-11-18T06:22:39Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "5623dfcec876e0210010d515",
+  "issued_at": "2026-11-18T06:15:11Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-19T06:22:39Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "ABM"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.01716217992711371,
+      "ticker": "BMBL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.012081476289958424,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.09703256478432247,
+      "ticker": "GDYN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0021331593654861846,
+      "ticker": "HP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.37862004803156435,
+      "ticker": "JAKK"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.018849912551015317,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0288636226659893,
+      "ticker": "PCRX"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.09681436728469933,
+      "ticker": "VIA"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "e977e231d5f7aea65eb0155ae0bb6f996c4e41be5b6197b37ce81cd5f355ec73",
+    "artifact_sha256": "3b54be670fa1f11fb6301be68f44e497cde446e7ece9ba2e5fb2fa9e56581be0"
+  },
+  "source_time_for_delay": "2026-11-18T06:15:11Z",
+  "weight_denominator": "model_portfolio"
+}
