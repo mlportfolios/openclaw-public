@@ -1,0 +1,103 @@
+{
+  "accepted_at": "2026-11-19T12:43:09Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "74bc83881d5cbd4c4508b285",
+  "issued_at": "2026-11-19T12:34:37Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-20T12:43:09Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "ABM"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.03468624250380782,
+      "ticker": "ASO"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.02002747222744955,
+      "ticker": "BMBL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.1240163070667292,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.5818811403191594,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.004741899109374738,
+      "ticker": "HP"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.03711385935075585,
+      "ticker": "JAKK"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.012305684967120733,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.049049001478747765,
+      "ticker": "RXO"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "SG"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "VFC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.006809668856384501,
+      "ticker": "VIA"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "08a58963b1be6d1baadc5a3f8a2758612366c51dca6de15564a3122aa2015532",
+    "artifact_sha256": "d445689d037388e1401b11734c147196ab23b93eb448ee054d476a504fb12605"
+  },
+  "source_time_for_delay": "2026-11-19T12:34:37Z",
+  "weight_denominator": "model_portfolio"
+}
