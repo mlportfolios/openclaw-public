@@ -1,0 +1,109 @@
+{
+  "accepted_at": "2026-11-20T04:09:07Z",
+  "historical_record": true,
+  "horizon": "daily",
+  "id": "7293e2e447936b905b3b1710",
+  "issued_at": "2026-11-20T04:00:16Z",
+  "member_delivery_independently_verified": false,
+  "minimum_delay_days": 1,
+  "public_after": "2026-11-21T04:09:07Z",
+  "rows": [
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "ABM"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.007531474718558813,
+      "ticker": "ASO"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.020420573258904128,
+      "ticker": "BMBL"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.0371568020411989,
+      "ticker": "CDNA"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.2835780811347399,
+      "ticker": "CRVL"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "HP"
+    },
+    {
+      "action": "Exit",
+      "status": "EXIT",
+      "target_weight": 0.0,
+      "ticker": "JAKK"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.011943620030381397,
+      "ticker": "KNSA"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "PTC"
+    },
+    {
+      "action": "Buy",
+      "status": "ACTIVE",
+      "target_weight": 0.03400767439702146,
+      "ticker": "PVH"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.05440585895581555,
+      "ticker": "RXO"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "SG"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "SLN"
+    },
+    {
+      "action": "Withheld",
+      "status": "WITHHELD",
+      "target_weight": 0.0,
+      "ticker": "VFC"
+    },
+    {
+      "action": "Hold",
+      "status": "ACTIVE",
+      "target_weight": 0.12379715175021055,
+      "ticker": "VIA"
+    }
+  ],
+  "schema": "accepted-public-receipts/v1",
+  "source_integrity": {
+    "accepted_snapshot_file_sha256": "a8cc015c24c4ce57087cce7c7bc9ec0aff0ac1e227727a1f3d0fe791fbfe2d45",
+    "artifact_sha256": "ab7b904f95ddc478bf6a71e90687fefd3fa4e629d86fe8de8facb0b0053b5e71"
+  },
+  "source_time_for_delay": "2026-11-20T04:00:16Z",
+  "weight_denominator": "model_portfolio"
+}
